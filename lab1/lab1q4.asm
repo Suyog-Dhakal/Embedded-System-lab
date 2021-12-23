@@ -1,0 +1,16 @@
+ORG 00H
+
+		MOV 3EH,#0AFH
+		MOV A,3EH
+		MOV R1,#12H
+		MOV R4,#00H;Quotient
+SUBNXT:	CLR C
+		SUBB A,R1
+		INC R4
+		JNC SUBNXT
+		DEC R4
+		ADD A,R1
+		MOV R5,A ;Remainder
+		MOV P0,R4
+		MOV P1,R5
+END

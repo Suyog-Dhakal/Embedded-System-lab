@@ -1,0 +1,47 @@
+A51 MACRO ASSEMBLER  LAB1Q3                                                               12/20/2021 13:25:20 PAGE     1
+
+
+MACRO ASSEMBLER A51 V8.02b
+OBJECT MODULE PLACED IN lab1q3.OBJ
+ASSEMBLER INVOKED BY: C:\Keil\C51\BIN\A51.EXE lab1q3.asm SET(SMALL) DEBUG EP
+
+LOC  OBJ            LINE     SOURCE
+
+0000                   1     ORG 00H
+                       2     
+0000 7522FF            3     MOV 22H,#0FFH
+0003 7515DE            4     MOV 15H,#0DEH
+                       5     
+0006 A822              6     MOV R0,22H
+0008 E4                7     CLR A
+0009 7A00              8     MOV R2,#00H
+000B                   9     ADDNXT:
+000B 2515             10     ADD A,15H
+                      11     
+000D 5006             12     JNC SKIPP
+000F F9               13     MOV R1,A
+0010 EA               14     MOV A,R2
+0011 3400             15     ADDC A,#00H
+0013 FA               16     MOV R2,A
+0014 E9               17     MOV A,R1
+0015                  18     SKIPP:
+0015 D8F4             19     DJNZ R0,ADDNXT
+0017 F519             20     MOV 19H,A
+0019 8A1A             21     MOV 1AH,R2
+                      22     END
+A51 MACRO ASSEMBLER  LAB1Q3                                                               12/20/2021 13:25:20 PAGE     2
+
+SYMBOL TABLE LISTING
+------ ----- -------
+
+
+N A M E             T Y P E  V A L U E   ATTRIBUTES
+
+ADDNXT . . . . . .  C ADDR   000BH   A   
+SKIPP. . . . . . .  C ADDR   0015H   A   
+
+
+REGISTER BANK(S) USED: 0 
+
+
+ASSEMBLY COMPLETE.  0 WARNING(S), 0 ERROR(S)

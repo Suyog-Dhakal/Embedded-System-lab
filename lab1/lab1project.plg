@@ -1,0 +1,1635 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\6th sem\Embedded system\lab\lab1\lab1project.uvproj
+Project File Date:  12/18/2021
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling lab1q1.asm...
+compiling lab1q1.c...
+compiling lab1q2.c...
+lab1q2.c(5): error C100: unprintable character 0xA0 skipped
+lab1q2.c(5): error C100: unprintable character 0xA0 skipped
+lab1q2.c(6): error C100: unprintable character 0xA0 skipped
+lab1q2.c(6): error C100: unprintable character 0xA0 skipped
+lab1q2.c(7): error C100: unprintable character 0xA0 skipped
+lab1q2.c(7): error C100: unprintable character 0xA0 skipped
+lab1q2.c(7): error C100: unprintable character 0xA0 skipped
+lab1q2.c(7): error C100: unprintable character 0xA0 skipped
+lab1q2.c(11): error C100: unprintable character 0xA0 skipped
+lab1q2.c(11): error C100: unprintable character 0xA0 skipped
+lab1q2.c(12): error C100: unprintable character 0xA0 skipped
+lab1q2.c(12): error C100: unprintable character 0xA0 skipped
+lab1q2.c(13): error C100: unprintable character 0xA0 skipped
+lab1q2.c(13): error C100: unprintable character 0xA0 skipped
+lab1q2.c(14): error C100: unprintable character 0xA0 skipped
+lab1q2.c(14): error C100: unprintable character 0xA0 skipped
+lab1q2.c(15): error C100: unprintable character 0xA0 skipped
+lab1q2.c(15): error C100: unprintable character 0xA0 skipped
+lab1q2.c(16): error C100: unprintable character 0xA0 skipped
+lab1q2.c(16): error C100: unprintable character 0xA0 skipped
+lab1q2.c(17): error C100: unprintable character 0xA0 skipped
+lab1q2.c(17): error C100: unprintable character 0xA0 skipped
+lab1q2.c(18): error C100: unprintable character 0xA0 skipped
+lab1q2.c(18): error C100: unprintable character 0xA0 skipped
+lab1q2.c(19): error C100: unprintable character 0xA0 skipped
+lab1q2.c(19): error C100: unprintable character 0xA0 skipped
+lab1q2.c(20): error C100: unprintable character 0xA0 skipped
+lab1q2.c(20): error C100: unprintable character 0xA0 skipped
+lab1q2.c(20): error C100: unprintable character 0xA0 skipped
+lab1q2.c(20): error C100: unprintable character 0xA0 skipped
+lab1q2.c(21): error C100: unprintable character 0xA0 skipped
+lab1q2.c(21): error C100: unprintable character 0xA0 skipped
+lab1q2.c(21): error C100: unprintable character 0xA0 skipped
+lab1q2.c(21): error C100: unprintable character 0xA0 skipped
+lab1q2.c(22): error C100: unprintable character 0xA0 skipped
+lab1q2.c(22): error C100: unprintable character 0xA0 skipped
+lab1q2.c(22): error C100: unprintable character 0xA0 skipped
+lab1q2.c(22): error C100: unprintable character 0xA0 skipped
+lab1q2.c(23): error C100: unprintable character 0xA0 skipped
+lab1q2.c(23): error C100: unprintable character 0xA0 skipped
+lab1q2.c(23): error C100: unprintable character 0xA0 skipped
+lab1q2.c(23): error C100: unprintable character 0xA0 skipped
+lab1q2.c(24): error C100: unprintable character 0xA0 skipped
+lab1q2.c(24): error C100: unprintable character 0xA0 skipped
+assembling lab1q2.asm...
+assembling lab1q3.asm...
+compiling lab1q3.c...
+lab1q3.c(8): error C100: unprintable character 0xA0 skipped
+lab1q3.c(8): error C100: unprintable character 0xA0 skipped
+lab1q3.c(9): error C100: unprintable character 0xA0 skipped
+lab1q3.c(9): error C100: unprintable character 0xA0 skipped
+lab1q3.c(10): error C100: unprintable character 0xA0 skipped
+lab1q3.c(10): error C100: unprintable character 0xA0 skipped
+lab1q3.c(10): error C100: unprintable character 0xA0 skipped
+lab1q3.c(10): error C100: unprintable character 0xA0 skipped
+lab1q3.c(15): error C100: unprintable character 0xA0 skipped
+lab1q3.c(15): error C100: unprintable character 0xA0 skipped
+lab1q3.c(16): error C100: unprintable character 0xA0 skipped
+lab1q3.c(16): error C100: unprintable character 0xA0 skipped
+lab1q3.c(17): error C100: unprintable character 0xA0 skipped
+lab1q3.c(17): error C100: unprintable character 0xA0 skipped
+lab1q3.c(18): error C100: unprintable character 0xA0 skipped
+lab1q3.c(18): error C100: unprintable character 0xA0 skipped
+lab1q3.c(19): error C100: unprintable character 0xA0 skipped
+lab1q3.c(19): error C100: unprintable character 0xA0 skipped
+lab1q3.c(20): error C100: unprintable character 0xA0 skipped
+lab1q3.c(20): error C100: unprintable character 0xA0 skipped
+lab1q3.c(21): error C100: unprintable character 0xA0 skipped
+lab1q3.c(21): error C100: unprintable character 0xA0 skipped
+lab1q3.c(22): error C100: unprintable character 0xA0 skipped
+lab1q3.c(22): error C100: unprintable character 0xA0 skipped
+lab1q3.c(22): error C100: unprintable character 0xA0 skipped
+lab1q3.c(22): error C100: unprintable character 0xA0 skipped
+lab1q3.c(23): error C100: unprintable character 0xA0 skipped
+lab1q3.c(23): error C100: unprintable character 0xA0 skipped
+lab1q3.c(24): error C100: unprintable character 0xA0 skipped
+lab1q3.c(24): error C100: unprintable character 0xA0 skipped
+lab1q3.c(25): error C100: unprintable character 0xA0 skipped
+lab1q3.c(25): error C100: unprintable character 0xA0 skipped
+lab1q3.c(26): error C100: unprintable character 0xA0 skipped
+lab1q3.c(26): error C100: unprintable character 0xA0 skipped
+lab1q3.c(27): error C100: unprintable character 0xA0 skipped
+lab1q3.c(27): error C100: unprintable character 0xA0 skipped
+lab1q3.c(28): error C100: unprintable character 0xA0 skipped
+lab1q3.c(28): error C100: unprintable character 0xA0 skipped
+lab1q3.c(29): error C100: unprintable character 0xA0 skipped
+lab1q3.c(29): error C100: unprintable character 0xA0 skipped
+lab1q3.c(29): error C100: unprintable character 0xA0 skipped
+lab1q3.c(29): error C100: unprintable character 0xA0 skipped
+lab1q3.c(30): error C100: unprintable character 0xA0 skipped
+lab1q3.c(30): error C100: unprintable character 0xA0 skipped
+lab1q3.c(30): error C100: unprintable character 0xA0 skipped
+lab1q3.c(30): error C100: unprintable character 0xA0 skipped
+lab1q3.c(31): error C100: unprintable character 0xA0 skipped
+lab1q3.c(31): error C100: unprintable character 0xA0 skipped
+lab1q3.c(31): error C100: unprintable character 0xA0 skipped
+lab1q3.c(31): error C100: unprintable character 0xA0 skipped
+lab1q3.c(32): error C100: unprintable character 0xA0 skipped
+lab1q3.c(32): error C100: unprintable character 0xA0 skipped
+lab1q3.c(32): error C100: unprintable character 0xA0 skipped
+lab1q3.c(32): error C100: unprintable character 0xA0 skipped
+lab1q3.c(33): error C100: unprintable character 0xA0 skipped
+lab1q3.c(33): error C100: unprintable character 0xA0 skipped
+lab1q3.c(33): error C100: unprintable character 0xA0 skipped
+assembling lab1q4.asm...
+compiling lab1q4.c...
+lab1q4.c(8): error C100: unprintable character 0xA0 skipped
+lab1q4.c(8): error C100: unprintable character 0xA0 skipped
+lab1q4.c(9): error C100: unprintable character 0xA0 skipped
+lab1q4.c(9): error C100: unprintable character 0xA0 skipped
+lab1q4.c(10): error C100: unprintable character 0xA0 skipped
+lab1q4.c(10): error C100: unprintable character 0xA0 skipped
+lab1q4.c(10): error C100: unprintable character 0xA0 skipped
+lab1q4.c(10): error C100: unprintable character 0xA0 skipped
+lab1q4.c(15): error C100: unprintable character 0xA0 skipped
+lab1q4.c(15): error C100: unprintable character 0xA0 skipped
+lab1q4.c(16): error C100: unprintable character 0xA0 skipped
+lab1q4.c(16): error C100: unprintable character 0xA0 skipped
+lab1q4.c(17): error C100: unprintable character 0xA0 skipped
+lab1q4.c(17): error C100: unprintable character 0xA0 skipped
+lab1q4.c(18): error C100: unprintable character 0xA0 skipped
+lab1q4.c(18): error C100: unprintable character 0xA0 skipped
+lab1q4.c(19): error C100: unprintable character 0xA0 skipped
+lab1q4.c(19): error C100: unprintable character 0xA0 skipped
+lab1q4.c(20): error C100: unprintable character 0xA0 skipped
+lab1q4.c(20): error C100: unprintable character 0xA0 skipped
+lab1q4.c(21): error C100: unprintable character 0xA0 skipped
+lab1q4.c(21): error C100: unprintable character 0xA0 skipped
+lab1q4.c(22): error C100: unprintable character 0xA0 skipped
+lab1q4.c(22): error C100: unprintable character 0xA0 skipped
+lab1q4.c(22): error C100: unprintable character 0xA0 skipped
+lab1q4.c(22): error C100: unprintable character 0xA0 skipped
+lab1q4.c(23): error C100: unprintable character 0xA0 skipped
+lab1q4.c(23): error C100: unprintable character 0xA0 skipped
+lab1q4.c(23): error C100: unprintable character 0xA0 skipped
+lab1q4.c(23): error C100: unprintable character 0xA0 skipped
+lab1q4.c(24): error C100: unprintable character 0xA0 skipped
+lab1q4.c(24): error C100: unprintable character 0xA0 skipped
+lab1q4.c(24): error C100: unprintable character 0xA0 skipped
+lab1q4.c(24): error C100: unprintable character 0xA0 skipped
+lab1q4.c(24): error C100: unprintable character 0xA0 skipped
+lab1q4.c(24): error C100: unprintable character 0xA0 skipped
+lab1q4.c(25): error C100: unprintable character 0xA0 skipped
+lab1q4.c(25): error C100: unprintable character 0xA0 skipped
+lab1q4.c(25): error C100: unprintable character 0xA0 skipped
+lab1q4.c(25): error C100: unprintable character 0xA0 skipped
+lab1q4.c(26): error C100: unprintable character 0xA0 skipped
+lab1q4.c(26): error C100: unprintable character 0xA0 skipped
+lab1q4.c(27): error C100: unprintable character 0xA0 skipped
+lab1q4.c(27): error C100: unprintable character 0xA0 skipped
+lab1q4.c(28): error C100: unprintable character 0xA0 skipped
+lab1q4.c(28): error C100: unprintable character 0xA0 skipped
+lab1q4.c(29): error C100: unprintable character 0xA0 skipped
+lab1q4.c(29): error C100: unprintable character 0xA0 skipped
+lab1q4.c(30): error C100: unprintable character 0xA0 skipped
+lab1q4.c(30): error C100: unprintable character 0xA0 skipped
+lab1q4.c(32): error C100: unprintable character 0xA0 skipped
+lab1q4.c(32): error C100: unprintable character 0xA0 skipped
+lab1q4.c(33): error C100: unprintable character 0xA0 skipped
+lab1q4.c(33): error C100: unprintable character 0xA0 skipped
+lab1q4.c(34): error C100: unprintable character 0xA0 skipped
+lab1q4.c(34): error C100: unprintable character 0xA0 skipped
+lab1q4.c(34): error C100: unprintable character 0xA0 skipped
+lab1q4.c(34): error C100: unprintable character 0xA0 skipped
+lab1q4.c(35): error C100: unprintable character 0xA0 skipped
+lab1q4.c(35): error C100: unprintable character 0xA0 skipped
+lab1q4.c(35): error C100: unprintable character 0xA0 skipped
+lab1q4.c(35): error C100: unprintable character 0xA0 skipped
+lab1q4.c(36): error C100: unprintable character 0xA0 skipped
+lab1q4.c(36): error C100: unprintable character 0xA0 skipped
+lab1q4.c(36): error C100: unprintable character 0xA0 skipped
+lab1q4.c(36): error C100: unprintable character 0xA0 skipped
+lab1q4.c(37): error C100: unprintable character 0xA0 skipped
+lab1q4.c(37): error C100: unprintable character 0xA0 skipped
+lab1q4.c(37): error C100: unprintable character 0xA0 skipped
+lab1q4.c(37): error C100: unprintable character 0xA0 skipped
+lab1q4.c(38): error C100: unprintable character 0xA0 skipped
+lab1q4.c(38): error C100: unprintable character 0xA0 skipped
+lab1q4.c(38): error C100: unprintable character 0xA0 skipped
+compiling lab1q5.c...
+lab1q5.c(5): error C100: unprintable character 0xA0 skipped
+lab1q5.c(5): error C100: unprintable character 0xA0 skipped
+lab1q5.c(6): error C100: unprintable character 0xA0 skipped
+lab1q5.c(6): error C100: unprintable character 0xA0 skipped
+lab1q5.c(7): error C100: unprintable character 0xA0 skipped
+lab1q5.c(7): error C100: unprintable character 0xA0 skipped
+lab1q5.c(7): error C100: unprintable character 0xA0 skipped
+lab1q5.c(7): error C100: unprintable character 0xA0 skipped
+lab1q5.c(11): error C100: unprintable character 0xA0 skipped
+lab1q5.c(11): error C100: unprintable character 0xA0 skipped
+lab1q5.c(12): error C100: unprintable character 0xA0 skipped
+lab1q5.c(12): error C100: unprintable character 0xA0 skipped
+lab1q5.c(13): error C100: unprintable character 0xA0 skipped
+lab1q5.c(13): error C100: unprintable character 0xA0 skipped
+lab1q5.c(14): error C100: unprintable character 0xA0 skipped
+lab1q5.c(14): error C100: unprintable character 0xA0 skipped
+lab1q5.c(15): error C100: unprintable character 0xA0 skipped
+lab1q5.c(15): error C100: unprintable character 0xA0 skipped
+lab1q5.c(16): error C100: unprintable character 0xA0 skipped
+lab1q5.c(16): error C100: unprintable character 0xA0 skipped
+lab1q5.c(18): error C100: unprintable character 0xA0 skipped
+lab1q5.c(18): error C100: unprintable character 0xA0 skipped
+lab1q5.c(19): error C100: unprintable character 0xA0 skipped
+lab1q5.c(19): error C100: unprintable character 0xA0 skipped
+lab1q5.c(20): error C100: unprintable character 0xA0 skipped
+lab1q5.c(20): error C100: unprintable character 0xA0 skipped
+lab1q5.c(21): error C100: unprintable character 0xA0 skipped
+lab1q5.c(21): error C100: unprintable character 0xA0 skipped
+lab1q5.c(21): error C100: unprintable character 0xA0 skipped
+lab1q5.c(21): error C100: unprintable character 0xA0 skipped
+lab1q5.c(22): error C100: unprintable character 0xA0 skipped
+lab1q5.c(22): error C100: unprintable character 0xA0 skipped
+lab1q5.c(22): error C100: unprintable character 0xA0 skipped
+lab1q5.c(22): error C100: unprintable character 0xA0 skipped
+lab1q5.c(22): error C100: unprintable character 0xA0 skipped
+lab1q5.c(22): error C100: unprintable character 0xA0 skipped
+lab1q5.c(23): error C100: unprintable character 0xA0 skipped
+lab1q5.c(23): error C100: unprintable character 0xA0 skipped
+lab1q5.c(23): error C100: unprintable character 0xA0 skipped
+lab1q5.c(23): error C100: unprintable character 0xA0 skipped
+lab1q5.c(24): error C100: unprintable character 0xA0 skipped
+lab1q5.c(24): error C100: unprintable character 0xA0 skipped
+lab1q5.c(24): error C100: unprintable character 0xA0 skipped
+lab1q5.c(24): error C100: unprintable character 0xA0 skipped
+lab1q5.c(24): error C100: unprintable character 0xA0 skipped
+lab1q5.c(24): error C100: unprintable character 0xA0 skipped
+lab1q5.c(25): error C100: unprintable character 0xA0 skipped
+lab1q5.c(25): error C100: unprintable character 0xA0 skipped
+lab1q5.c(26): error C100: unprintable character 0xA0 skipped
+lab1q5.c(26): error C100: unprintable character 0xA0 skipped
+lab1q5.c(27): error C100: unprintable character 0xA0 skipped
+lab1q5.c(27): error C100: unprintable character 0xA0 skipped
+lab1q5.c(28): error C100: unprintable character 0xA0 skipped
+lab1q5.c(28): error C100: unprintable character 0xA0 skipped
+lab1q5.c(28): error C100: unprintable character 0xA0 skipped
+lab1q5.c(28): error C100: unprintable character 0xA0 skipped
+lab1q5.c(29): error C100: unprintable character 0xA0 skipped
+lab1q5.c(29): error C100: unprintable character 0xA0 skipped
+lab1q5.c(29): error C100: unprintable character 0xA0 skipped
+lab1q5.c(29): error C100: unprintable character 0xA0 skipped
+lab1q5.c(30): error C100: unprintable character 0xA0 skipped
+lab1q5.c(30): error C100: unprintable character 0xA0 skipped
+lab1q5.c(30): error C100: unprintable character 0xA0 skipped
+lab1q5.c(30): error C100: unprintable character 0xA0 skipped
+lab1q5.c(31): error C100: unprintable character 0xA0 skipped
+lab1q5.c(31): error C100: unprintable character 0xA0 skipped
+lab1q5.c(31): error C100: unprintable character 0xA0 skipped
+lab1q5.c(31): error C100: unprintable character 0xA0 skipped
+lab1q5.c(32): error C100: unprintable character 0xA0 skipped
+lab1q5.c(32): error C100: unprintable character 0xA0 skipped
+lab1q5.c(32): error C100: unprintable character 0xA0 skipped
+assembling lab1q5.asm...
+assembling lab1q6.asm...
+lab1q6.asm(13): error A9: SYNTAX ERROR
+lab1q6.asm(13): error A9: SYNTAX ERROR
+lab1q6.asm(13): error A3: ILLEGAL CHARACTER
+lab1q6.asm(26): error A9: SYNTAX ERROR
+lab1q6.asm(26): error A9: SYNTAX ERROR
+lab1q6.asm(26): error A3: ILLEGAL CHARACTER
+lab1q6.asm(26): error A3: ILLEGAL CHARACTER
+lab1q6.asm(26): error A3: ILLEGAL CHARACTER
+lab1q6.asm(27): error A9: SYNTAX ERROR
+lab1q6.asm(28): error A9: SYNTAX ERROR
+lab1q6.asm(28): error A9: SYNTAX ERROR
+lab1q6.asm(28): error A3: ILLEGAL CHARACTER
+lab1q6.asm(28): error A3: ILLEGAL CHARACTER
+lab1q6.asm(28): error A3: ILLEGAL CHARACTER
+lab1q6.asm(36): error A9: SYNTAX ERROR
+lab1q6.asm(36): error A9: SYNTAX ERROR
+lab1q6.asm(36): error A3: ILLEGAL CHARACTER
+lab1q6.asm(36): error A3: ILLEGAL CHARACTER
+lab1q6.asm(36): error A3: ILLEGAL CHARACTER
+lab1q6.asm(44): error A9: SYNTAX ERROR
+lab1q6.asm(44): error A9: SYNTAX ERROR
+lab1q6.asm(44): error A9: SYNTAX ERROR
+lab1q6.asm(44): error A3: ILLEGAL CHARACTER
+lab1q6.asm(44): error A3: ILLEGAL CHARACTER
+lab1q6.asm(52): error A9: SYNTAX ERROR
+lab1q6.asm(52): error A9: SYNTAX ERROR
+lab1q6.asm(52): error A3: ILLEGAL CHARACTER
+lab1q6.asm(52): error A3: ILLEGAL CHARACTER
+lab1q6.asm(52): error A3: ILLEGAL CHARACTER
+lab1q6.asm(53): error A9: SYNTAX ERROR
+lab1q6.asm(53): error A9: SYNTAX ERROR
+lab1q6.asm(54): error A9: SYNTAX ERROR
+lab1q6.asm(54): error A9: SYNTAX ERROR
+lab1q6.asm(54): error A3: ILLEGAL CHARACTER
+lab1q6.asm(54): error A3: ILLEGAL CHARACTER
+lab1q6.asm(54): error A3: ILLEGAL CHARACTER
+lab1q6.asm(56): error A9: SYNTAX ERROR
+lab1q6.asm(56): error A9: SYNTAX ERROR
+lab1q6.asm(56): error A3: ILLEGAL CHARACTER
+lab1q6.asm(56): error A3: ILLEGAL CHARACTER
+lab1q6.asm(56): error A3: ILLEGAL CHARACTER
+lab1q6.asm(63): error A9: SYNTAX ERROR
+lab1q6.asm(63): error A9: SYNTAX ERROR
+lab1q6.asm(63): error A3: ILLEGAL CHARACTER
+lab1q6.asm(63): error A3: ILLEGAL CHARACTER
+lab1q6.asm(64): error A9: SYNTAX ERROR
+lab1q6.asm(64): error A9: SYNTAX ERROR
+lab1q6.asm(64): error A3: ILLEGAL CHARACTER
+lab1q6.asm(64): error A3: ILLEGAL CHARACTER
+lab1q6.asm(64): error A3: ILLEGAL CHARACTER
+lab1q6.asm(65): error A9: SYNTAX ERROR
+lab1q6.asm(65): error A9: SYNTAX ERROR
+lab1q6.asm(65): error A3: ILLEGAL CHARACTER
+lab1q6.asm(65): error A3: ILLEGAL CHARACTER
+lab1q6.asm(65): error A3: ILLEGAL CHARACTER
+lab1q6.asm(67): error A9: SYNTAX ERROR
+lab1q6.asm(67): error A9: SYNTAX ERROR
+lab1q6.asm(67): error A3: ILLEGAL CHARACTER
+lab1q6.asm(67): error A3: ILLEGAL CHARACTER
+lab1q6.asm(67): error A3: ILLEGAL CHARACTER
+lab1q6.asm(71): error A9: SYNTAX ERROR
+lab1q6.asm(71): error A9: SYNTAX ERROR
+lab1q6.asm(71): error A9: SYNTAX ERROR
+lab1q6.asm(71): error A3: ILLEGAL CHARACTER
+lab1q6.asm(71): error A3: ILLEGAL CHARACTER
+lab1q6.asm(72): error A9: SYNTAX ERROR
+lab1q6.asm(72): error A9: SYNTAX ERROR
+lab1q6.asm(72): error A9: SYNTAX ERROR
+lab1q6.asm(72): error A3: ILLEGAL CHARACTER
+lab1q6.asm(72): error A3: ILLEGAL CHARACTER
+compiling lab1q6a.c...
+lab1q6a.c(6): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(6): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(7): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(7): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(8): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(8): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(8): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(8): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(13): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(13): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(14): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(14): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(15): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(15): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(16): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(16): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(17): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(17): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(18): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(18): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(19): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(19): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(20): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(20): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(20): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(20): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(21): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(21): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(21): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(21): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(21): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(21): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(22): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(22): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(22): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(22): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(22): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(22): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(23): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(23): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(23): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(23): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(23): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(23): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(23): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(23): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(24): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(24): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(24): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(24): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(24): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(24): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(24): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(24): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(25): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(25): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(25): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(25): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(25): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(25): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(25): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(25): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(26): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(26): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(26): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(26): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(26): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(26): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(27): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(27): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(27): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(27): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(27): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(27): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(27): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(27): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(28): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(28): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(29): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(29): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(30): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(30): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(30): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(30): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(31): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(31): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(31): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(31): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(32): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(32): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(32): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(32): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(32): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(32): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(33): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(33): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(33): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(33): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(33): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(33): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(34): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(34): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(34): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(34): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(35): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(35): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(35): error C100: unprintable character 0xA0 skipped
+compiling lab1q6b.c...
+lab1q6b.c(6): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(6): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(7): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(7): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(8): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(8): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(8): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(8): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(12): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(12): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(13): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(13): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(15): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(15): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(16): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(16): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(17): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(17): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(18): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(18): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(20): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(20): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(21): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(21): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(22): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(22): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(22): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(22): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(23): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(23): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(23): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(23): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(23): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(23): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(24): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(24): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(24): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(24): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(24): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(24): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(25): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(25): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(25): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(25): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(25): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(25): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(25): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(25): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(26): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(26): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(26): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(26): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(26): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(26): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(26): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(26): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(27): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(27): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(27): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(27): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(27): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(27): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(27): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(27): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(28): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(28): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(28): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(28): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(28): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(28): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(29): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(29): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(29): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(29): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(29): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(29): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(29): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(29): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(29): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(29): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(30): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(30): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(31): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(31): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(32): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(32): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(33): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(33): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(34): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(34): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(34): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(34): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(35): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(35): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(35): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(35): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(36): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(36): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(36): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(36): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(36): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(36): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(37): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(37): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(37): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(37): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(37): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(37): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(38): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(38): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(38): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(38): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(39): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(39): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(39): error C100: unprintable character 0xA0 skipped
+assembling lab1q7.asm...
+lab1q7.asm(2): error A9: SYNTAX ERROR
+lab1q7.asm(2): error A9: SYNTAX ERROR
+lab1q7.asm(3): error A9: SYNTAX ERROR
+lab1q7.asm(4): error A9: SYNTAX ERROR
+lab1q7.asm(8): error A9: SYNTAX ERROR
+lab1q7.asm(8): error A9: SYNTAX ERROR
+lab1q7.asm(8): error A3: ILLEGAL CHARACTER
+lab1q7.asm(8): error A3: ILLEGAL CHARACTER
+lab1q7.asm(19): error A9: SYNTAX ERROR
+lab1q7.asm(20): error A9: SYNTAX ERROR
+lab1q7.asm(41): error A9: SYNTAX ERROR
+lab1q7.asm(41): error A9: SYNTAX ERROR
+lab1q7.asm(41): error A9: SYNTAX ERROR
+lab1q7.asm(41): error A3: ILLEGAL CHARACTER
+lab1q7.asm(41): error A3: ILLEGAL CHARACTER
+lab1q7.asm(42): error A9: SYNTAX ERROR
+lab1q7.asm(42): error A9: SYNTAX ERROR
+lab1q7.asm(42): error A3: ILLEGAL CHARACTER
+lab1q7.asm(42): error A3: ILLEGAL CHARACTER
+lab1q7.asm(42): error A3: ILLEGAL CHARACTER
+lab1q7.asm(43): error A9: SYNTAX ERROR
+lab1q7.asm(46): error A9: SYNTAX ERROR
+compiling lab1q7.c...
+lab1q7.c(6): error C100: unprintable character 0xA0 skipped
+lab1q7.c(6): error C100: unprintable character 0xA0 skipped
+lab1q7.c(7): error C100: unprintable character 0xA0 skipped
+lab1q7.c(7): error C100: unprintable character 0xA0 skipped
+lab1q7.c(8): error C100: unprintable character 0xA0 skipped
+lab1q7.c(8): error C100: unprintable character 0xA0 skipped
+lab1q7.c(8): error C100: unprintable character 0xA0 skipped
+lab1q7.c(8): error C100: unprintable character 0xA0 skipped
+lab1q7.c(12): error C100: unprintable character 0xA0 skipped
+lab1q7.c(12): error C100: unprintable character 0xA0 skipped
+lab1q7.c(13): error C100: unprintable character 0xA0 skipped
+lab1q7.c(13): error C100: unprintable character 0xA0 skipped
+lab1q7.c(14): error C100: unprintable character 0xA0 skipped
+lab1q7.c(14): error C100: unprintable character 0xA0 skipped
+lab1q7.c(14): error C100: unprintable character 0xA0 skipped
+lab1q7.c(14): error C100: unprintable character 0xA0 skipped
+lab1q7.c(15): error C100: unprintable character 0xA0 skipped
+lab1q7.c(15): error C100: unprintable character 0xA0 skipped
+lab1q7.c(15): error C100: unprintable character 0xA0 skipped
+lab1q7.c(15): error C100: unprintable character 0xA0 skipped
+lab1q7.c(15): error C100: unprintable character 0xA0 skipped
+lab1q7.c(15): error C100: unprintable character 0xA0 skipped
+lab1q7.c(15): error C100: unprintable character 0xA0 skipped
+lab1q7.c(15): error C100: unprintable character 0xA0 skipped
+lab1q7.c(16): error C100: unprintable character 0xA0 skipped
+lab1q7.c(16): error C100: unprintable character 0xA0 skipped
+lab1q7.c(17): error C100: unprintable character 0xA0 skipped
+lab1q7.c(17): error C100: unprintable character 0xA0 skipped
+lab1q7.c(17): error C100: unprintable character 0xA0 skipped
+lab1q7.c(17): error C100: unprintable character 0xA0 skipped
+lab1q7.c(17): error C100: unprintable character 0xA0 skipped
+lab1q7.c(17): error C100: unprintable character 0xA0 skipped
+lab1q7.c(18): error C100: unprintable character 0xA0 skipped
+lab1q7.c(18): error C100: unprintable character 0xA0 skipped
+lab1q7.c(19): error C100: unprintable character 0xA0 skipped
+lab1q7.c(19): error C100: unprintable character 0xA0 skipped
+lab1q7.c(22): error C100: unprintable character 0xA0 skipped
+lab1q7.c(22): error C100: unprintable character 0xA0 skipped
+lab1q7.c(23): error C100: unprintable character 0xA0 skipped
+lab1q7.c(23): error C100: unprintable character 0xA0 skipped
+lab1q7.c(24): error C100: unprintable character 0xA0 skipped
+lab1q7.c(24): error C100: unprintable character 0xA0 skipped
+lab1q7.c(25): error C100: unprintable character 0xA0 skipped
+lab1q7.c(25): error C100: unprintable character 0xA0 skipped
+lab1q7.c(25): error C100: unprintable character 0xA0 skipped
+lab1q7.c(25): error C100: unprintable character 0xA0 skipped
+lab1q7.c(25): error C100: unprintable character 0xA0 skipped
+lab1q7.c(26): error C100: unprintable character 0xA0 skipped
+lab1q7.c(26): error C100: unprintable character 0xA0 skipped
+lab1q7.c(27): error C100: unprintable character 0xA0 skipped
+lab1q7.c(27): error C100: unprintable character 0xA0 skipped
+lab1q7.c(28): error C100: unprintable character 0xA0 skipped
+lab1q7.c(28): error C100: unprintable character 0xA0 skipped
+lab1q7.c(29): error C100: unprintable character 0xA0 skipped
+lab1q7.c(29): error C100: unprintable character 0xA0 skipped
+lab1q7.c(29): error C100: unprintable character 0xA0 skipped
+lab1q7.c(29): error C100: unprintable character 0xA0 skipped
+lab1q7.c(30): error C100: unprintable character 0xA0 skipped
+lab1q7.c(30): error C100: unprintable character 0xA0 skipped
+lab1q7.c(30): error C100: unprintable character 0xA0 skipped
+lab1q7.c(30): error C100: unprintable character 0xA0 skipped
+lab1q7.c(30): error C100: unprintable character 0xA0 skipped
+lab1q7.c(30): error C100: unprintable character 0xA0 skipped
+lab1q7.c(31): error C100: unprintable character 0xA0 skipped
+lab1q7.c(31): error C100: unprintable character 0xA0 skipped
+lab1q7.c(32): error C100: unprintable character 0xA0 skipped
+lab1q7.c(32): error C100: unprintable character 0xA0 skipped
+lab1q7.c(33): error C100: unprintable character 0xA0 skipped
+lab1q7.c(33): error C100: unprintable character 0xA0 skipped
+lab1q7.c(34): error C100: unprintable character 0xA0 skipped
+lab1q7.c(34): error C100: unprintable character 0xA0 skipped
+lab1q7.c(34): error C100: unprintable character 0xA0 skipped
+lab1q7.c(34): error C100: unprintable character 0xA0 skipped
+lab1q7.c(35): error C100: unprintable character 0xA0 skipped
+lab1q7.c(35): error C100: unprintable character 0xA0 skipped
+lab1q7.c(35): error C100: unprintable character 0xA0 skipped
+lab1q7.c(35): error C100: unprintable character 0xA0 skipped
+lab1q7.c(36): error C100: unprintable character 0xA0 skipped
+lab1q7.c(36): error C100: unprintable character 0xA0 skipped
+lab1q7.c(36): error C100: unprintable character 0xA0 skipped
+lab1q7.c(36): error C100: unprintable character 0xA0 skipped
+lab1q7.c(36): error C100: unprintable character 0xA0 skipped
+lab1q7.c(36): error C100: unprintable character 0xA0 skipped
+lab1q7.c(37): error C100: unprintable character 0xA0 skipped
+lab1q7.c(37): error C100: unprintable character 0xA0 skipped
+lab1q7.c(37): error C100: unprintable character 0xA0 skipped
+lab1q7.c(37): error C100: unprintable character 0xA0 skipped
+lab1q7.c(37): error C100: unprintable character 0xA0 skipped
+lab1q7.c(37): error C100: unprintable character 0xA0 skipped
+lab1q7.c(38): error C100: unprintable character 0xA0 skipped
+lab1q7.c(38): error C100: unprintable character 0xA0 skipped
+lab1q7.c(38): error C100: unprintable character 0xA0 skipped
+lab1q7.c(38): error C100: unprintable character 0xA0 skipped
+lab1q7.c(39): error C100: unprintable character 0xA0 skipped
+lab1q7.c(39): error C100: unprintable character 0xA0 skipped
+lab1q7.c(39): error C100: unprintable character 0xA0 skipped
+assembling lab1q8.asm...
+lab1q8.asm(23): error A9: SYNTAX ERROR
+lab1q8.asm(23): error A9: SYNTAX ERROR
+compiling lab1q8.c...
+lab1q8.c(5): error C100: unprintable character 0xA0 skipped
+lab1q8.c(5): error C100: unprintable character 0xA0 skipped
+lab1q8.c(6): error C100: unprintable character 0xA0 skipped
+lab1q8.c(6): error C100: unprintable character 0xA0 skipped
+lab1q8.c(7): error C100: unprintable character 0xA0 skipped
+lab1q8.c(7): error C100: unprintable character 0xA0 skipped
+lab1q8.c(7): error C100: unprintable character 0xA0 skipped
+lab1q8.c(7): error C100: unprintable character 0xA0 skipped
+lab1q8.c(11): error C100: unprintable character 0xA0 skipped
+lab1q8.c(11): error C100: unprintable character 0xA0 skipped
+lab1q8.c(12): error C100: unprintable character 0xA0 skipped
+lab1q8.c(12): error C100: unprintable character 0xA0 skipped
+lab1q8.c(13): error C100: unprintable character 0xA0 skipped
+lab1q8.c(13): error C100: unprintable character 0xA0 skipped
+lab1q8.c(14): error C100: unprintable character 0xA0 skipped
+lab1q8.c(14): error C100: unprintable character 0xA0 skipped
+lab1q8.c(15): error C100: unprintable character 0xA0 skipped
+lab1q8.c(15): error C100: unprintable character 0xA0 skipped
+lab1q8.c(16): error C100: unprintable character 0xA0 skipped
+lab1q8.c(16): error C100: unprintable character 0xA0 skipped
+lab1q8.c(16): error C100: unprintable character 0xA0 skipped
+lab1q8.c(16): error C100: unprintable character 0xA0 skipped
+lab1q8.c(17): error C100: unprintable character 0xA0 skipped
+lab1q8.c(17): error C100: unprintable character 0xA0 skipped
+lab1q8.c(18): error C100: unprintable character 0xA0 skipped
+lab1q8.c(18): error C100: unprintable character 0xA0 skipped
+lab1q8.c(19): error C100: unprintable character 0xA0 skipped
+lab1q8.c(19): error C100: unprintable character 0xA0 skipped
+lab1q8.c(20): error C100: unprintable character 0xA0 skipped
+lab1q8.c(20): error C100: unprintable character 0xA0 skipped
+lab1q8.c(20): error C100: unprintable character 0xA0 skipped
+lab1q8.c(20): error C100: unprintable character 0xA0 skipped
+lab1q8.c(20): error C100: unprintable character 0xA0 skipped
+lab1q8.c(21): error C100: unprintable character 0xA0 skipped
+lab1q8.c(21): error C100: unprintable character 0xA0 skipped
+lab1q8.c(22): error C100: unprintable character 0xA0 skipped
+lab1q8.c(22): error C100: unprintable character 0xA0 skipped
+lab1q8.c(23): error C100: unprintable character 0xA0 skipped
+lab1q8.c(23): error C100: unprintable character 0xA0 skipped
+lab1q8.c(23): error C100: unprintable character 0xA0 skipped
+lab1q8.c(23): error C100: unprintable character 0xA0 skipped
+lab1q8.c(24): error C100: unprintable character 0xA0 skipped
+lab1q8.c(24): error C100: unprintable character 0xA0 skipped
+lab1q8.c(24): error C100: unprintable character 0xA0 skipped
+lab1q8.c(24): error C100: unprintable character 0xA0 skipped
+lab1q8.c(25): error C100: unprintable character 0xA0 skipped
+lab1q8.c(25): error C100: unprintable character 0xA0 skipped
+lab1q8.c(25): error C100: unprintable character 0xA0 skipped
+lab1q8.c(25): error C100: unprintable character 0xA0 skipped
+lab1q8.c(26): error C100: unprintable character 0xA0 skipped
+lab1q8.c(26): error C100: unprintable character 0xA0 skipped
+lab1q8.c(26): error C100: unprintable character 0xA0 skipped
+lab1q8.c(26): error C100: unprintable character 0xA0 skipped
+lab1q8.c(27): error C100: unprintable character 0xA0 skipped
+lab1q8.c(27): error C100: unprintable character 0xA0 skipped
+lab1q8.c(27): error C100: unprintable character 0xA0 skipped
+lab1q8.c(27): error C100: unprintable character 0xA0 skipped
+lab1q8.c(28): error C100: unprintable character 0xA0 skipped
+lab1q8.c(28): error C100: unprintable character 0xA0 skipped
+lab1q8.c(28): error C100: unprintable character 0xA0 skipped
+lab1q8.c(28): error C100: unprintable character 0xA0 skipped
+lab1q8.c(29): error C100: unprintable character 0xA0 skipped
+lab1q8.c(29): error C100: unprintable character 0xA0 skipped
+lab1q8.c(29): error C100: unprintable character 0xA0 skipped
+lab1q8.c(29): error C100: unprintable character 0xA0 skipped
+lab1q8.c(30): error C100: unprintable character 0xA0 skipped
+lab1q8.c(30): error C100: unprintable character 0xA0 skipped
+lab1q8.c(30): error C100: unprintable character 0xA0 skipped
+lab1q8.c(30): error C100: unprintable character 0xA0 skipped
+lab1q8.c(31): error C100: unprintable character 0xA0 skipped
+lab1q8.c(31): error C100: unprintable character 0xA0 skipped
+Target not created
+Build target 'Target 1'
+assembling lab1q1.asm...
+compiling lab1q1.c...
+compiling lab1q2.c...
+lab1q2.c(5): error C100: unprintable character 0xA0 skipped
+lab1q2.c(5): error C100: unprintable character 0xA0 skipped
+lab1q2.c(6): error C100: unprintable character 0xA0 skipped
+lab1q2.c(6): error C100: unprintable character 0xA0 skipped
+lab1q2.c(7): error C100: unprintable character 0xA0 skipped
+lab1q2.c(7): error C100: unprintable character 0xA0 skipped
+lab1q2.c(7): error C100: unprintable character 0xA0 skipped
+lab1q2.c(7): error C100: unprintable character 0xA0 skipped
+lab1q2.c(11): error C100: unprintable character 0xA0 skipped
+lab1q2.c(11): error C100: unprintable character 0xA0 skipped
+lab1q2.c(12): error C100: unprintable character 0xA0 skipped
+lab1q2.c(12): error C100: unprintable character 0xA0 skipped
+lab1q2.c(13): error C100: unprintable character 0xA0 skipped
+lab1q2.c(13): error C100: unprintable character 0xA0 skipped
+lab1q2.c(14): error C100: unprintable character 0xA0 skipped
+lab1q2.c(14): error C100: unprintable character 0xA0 skipped
+lab1q2.c(15): error C100: unprintable character 0xA0 skipped
+lab1q2.c(15): error C100: unprintable character 0xA0 skipped
+lab1q2.c(16): error C100: unprintable character 0xA0 skipped
+lab1q2.c(16): error C100: unprintable character 0xA0 skipped
+lab1q2.c(17): error C100: unprintable character 0xA0 skipped
+lab1q2.c(17): error C100: unprintable character 0xA0 skipped
+lab1q2.c(18): error C100: unprintable character 0xA0 skipped
+lab1q2.c(18): error C100: unprintable character 0xA0 skipped
+lab1q2.c(19): error C100: unprintable character 0xA0 skipped
+lab1q2.c(19): error C100: unprintable character 0xA0 skipped
+lab1q2.c(20): error C100: unprintable character 0xA0 skipped
+lab1q2.c(20): error C100: unprintable character 0xA0 skipped
+lab1q2.c(20): error C100: unprintable character 0xA0 skipped
+lab1q2.c(20): error C100: unprintable character 0xA0 skipped
+lab1q2.c(21): error C100: unprintable character 0xA0 skipped
+lab1q2.c(21): error C100: unprintable character 0xA0 skipped
+lab1q2.c(21): error C100: unprintable character 0xA0 skipped
+lab1q2.c(21): error C100: unprintable character 0xA0 skipped
+lab1q2.c(22): error C100: unprintable character 0xA0 skipped
+lab1q2.c(22): error C100: unprintable character 0xA0 skipped
+lab1q2.c(22): error C100: unprintable character 0xA0 skipped
+lab1q2.c(22): error C100: unprintable character 0xA0 skipped
+lab1q2.c(23): error C100: unprintable character 0xA0 skipped
+lab1q2.c(23): error C100: unprintable character 0xA0 skipped
+lab1q2.c(23): error C100: unprintable character 0xA0 skipped
+lab1q2.c(23): error C100: unprintable character 0xA0 skipped
+lab1q2.c(24): error C100: unprintable character 0xA0 skipped
+lab1q2.c(24): error C100: unprintable character 0xA0 skipped
+assembling lab1q2.asm...
+assembling lab1q3.asm...
+compiling lab1q3.c...
+lab1q3.c(8): error C100: unprintable character 0xA0 skipped
+lab1q3.c(8): error C100: unprintable character 0xA0 skipped
+lab1q3.c(9): error C100: unprintable character 0xA0 skipped
+lab1q3.c(9): error C100: unprintable character 0xA0 skipped
+lab1q3.c(10): error C100: unprintable character 0xA0 skipped
+lab1q3.c(10): error C100: unprintable character 0xA0 skipped
+lab1q3.c(10): error C100: unprintable character 0xA0 skipped
+lab1q3.c(10): error C100: unprintable character 0xA0 skipped
+lab1q3.c(15): error C100: unprintable character 0xA0 skipped
+lab1q3.c(15): error C100: unprintable character 0xA0 skipped
+lab1q3.c(16): error C100: unprintable character 0xA0 skipped
+lab1q3.c(16): error C100: unprintable character 0xA0 skipped
+lab1q3.c(17): error C100: unprintable character 0xA0 skipped
+lab1q3.c(17): error C100: unprintable character 0xA0 skipped
+lab1q3.c(18): error C100: unprintable character 0xA0 skipped
+lab1q3.c(18): error C100: unprintable character 0xA0 skipped
+lab1q3.c(19): error C100: unprintable character 0xA0 skipped
+lab1q3.c(19): error C100: unprintable character 0xA0 skipped
+lab1q3.c(20): error C100: unprintable character 0xA0 skipped
+lab1q3.c(20): error C100: unprintable character 0xA0 skipped
+lab1q3.c(21): error C100: unprintable character 0xA0 skipped
+lab1q3.c(21): error C100: unprintable character 0xA0 skipped
+lab1q3.c(22): error C100: unprintable character 0xA0 skipped
+lab1q3.c(22): error C100: unprintable character 0xA0 skipped
+lab1q3.c(22): error C100: unprintable character 0xA0 skipped
+lab1q3.c(22): error C100: unprintable character 0xA0 skipped
+lab1q3.c(23): error C100: unprintable character 0xA0 skipped
+lab1q3.c(23): error C100: unprintable character 0xA0 skipped
+lab1q3.c(24): error C100: unprintable character 0xA0 skipped
+lab1q3.c(24): error C100: unprintable character 0xA0 skipped
+lab1q3.c(25): error C100: unprintable character 0xA0 skipped
+lab1q3.c(25): error C100: unprintable character 0xA0 skipped
+lab1q3.c(26): error C100: unprintable character 0xA0 skipped
+lab1q3.c(26): error C100: unprintable character 0xA0 skipped
+lab1q3.c(27): error C100: unprintable character 0xA0 skipped
+lab1q3.c(27): error C100: unprintable character 0xA0 skipped
+lab1q3.c(28): error C100: unprintable character 0xA0 skipped
+lab1q3.c(28): error C100: unprintable character 0xA0 skipped
+lab1q3.c(29): error C100: unprintable character 0xA0 skipped
+lab1q3.c(29): error C100: unprintable character 0xA0 skipped
+lab1q3.c(29): error C100: unprintable character 0xA0 skipped
+lab1q3.c(29): error C100: unprintable character 0xA0 skipped
+lab1q3.c(30): error C100: unprintable character 0xA0 skipped
+lab1q3.c(30): error C100: unprintable character 0xA0 skipped
+lab1q3.c(30): error C100: unprintable character 0xA0 skipped
+lab1q3.c(30): error C100: unprintable character 0xA0 skipped
+lab1q3.c(31): error C100: unprintable character 0xA0 skipped
+lab1q3.c(31): error C100: unprintable character 0xA0 skipped
+lab1q3.c(31): error C100: unprintable character 0xA0 skipped
+lab1q3.c(31): error C100: unprintable character 0xA0 skipped
+lab1q3.c(32): error C100: unprintable character 0xA0 skipped
+lab1q3.c(32): error C100: unprintable character 0xA0 skipped
+lab1q3.c(32): error C100: unprintable character 0xA0 skipped
+lab1q3.c(32): error C100: unprintable character 0xA0 skipped
+lab1q3.c(33): error C100: unprintable character 0xA0 skipped
+lab1q3.c(33): error C100: unprintable character 0xA0 skipped
+lab1q3.c(33): error C100: unprintable character 0xA0 skipped
+assembling lab1q4.asm...
+compiling lab1q4.c...
+lab1q4.c(8): error C100: unprintable character 0xA0 skipped
+lab1q4.c(8): error C100: unprintable character 0xA0 skipped
+lab1q4.c(9): error C100: unprintable character 0xA0 skipped
+lab1q4.c(9): error C100: unprintable character 0xA0 skipped
+lab1q4.c(10): error C100: unprintable character 0xA0 skipped
+lab1q4.c(10): error C100: unprintable character 0xA0 skipped
+lab1q4.c(10): error C100: unprintable character 0xA0 skipped
+lab1q4.c(10): error C100: unprintable character 0xA0 skipped
+lab1q4.c(15): error C100: unprintable character 0xA0 skipped
+lab1q4.c(15): error C100: unprintable character 0xA0 skipped
+lab1q4.c(16): error C100: unprintable character 0xA0 skipped
+lab1q4.c(16): error C100: unprintable character 0xA0 skipped
+lab1q4.c(17): error C100: unprintable character 0xA0 skipped
+lab1q4.c(17): error C100: unprintable character 0xA0 skipped
+lab1q4.c(18): error C100: unprintable character 0xA0 skipped
+lab1q4.c(18): error C100: unprintable character 0xA0 skipped
+lab1q4.c(19): error C100: unprintable character 0xA0 skipped
+lab1q4.c(19): error C100: unprintable character 0xA0 skipped
+lab1q4.c(20): error C100: unprintable character 0xA0 skipped
+lab1q4.c(20): error C100: unprintable character 0xA0 skipped
+lab1q4.c(21): error C100: unprintable character 0xA0 skipped
+lab1q4.c(21): error C100: unprintable character 0xA0 skipped
+lab1q4.c(22): error C100: unprintable character 0xA0 skipped
+lab1q4.c(22): error C100: unprintable character 0xA0 skipped
+lab1q4.c(22): error C100: unprintable character 0xA0 skipped
+lab1q4.c(22): error C100: unprintable character 0xA0 skipped
+lab1q4.c(23): error C100: unprintable character 0xA0 skipped
+lab1q4.c(23): error C100: unprintable character 0xA0 skipped
+lab1q4.c(23): error C100: unprintable character 0xA0 skipped
+lab1q4.c(23): error C100: unprintable character 0xA0 skipped
+lab1q4.c(24): error C100: unprintable character 0xA0 skipped
+lab1q4.c(24): error C100: unprintable character 0xA0 skipped
+lab1q4.c(24): error C100: unprintable character 0xA0 skipped
+lab1q4.c(24): error C100: unprintable character 0xA0 skipped
+lab1q4.c(24): error C100: unprintable character 0xA0 skipped
+lab1q4.c(24): error C100: unprintable character 0xA0 skipped
+lab1q4.c(25): error C100: unprintable character 0xA0 skipped
+lab1q4.c(25): error C100: unprintable character 0xA0 skipped
+lab1q4.c(25): error C100: unprintable character 0xA0 skipped
+lab1q4.c(25): error C100: unprintable character 0xA0 skipped
+lab1q4.c(26): error C100: unprintable character 0xA0 skipped
+lab1q4.c(26): error C100: unprintable character 0xA0 skipped
+lab1q4.c(27): error C100: unprintable character 0xA0 skipped
+lab1q4.c(27): error C100: unprintable character 0xA0 skipped
+lab1q4.c(28): error C100: unprintable character 0xA0 skipped
+lab1q4.c(28): error C100: unprintable character 0xA0 skipped
+lab1q4.c(29): error C100: unprintable character 0xA0 skipped
+lab1q4.c(29): error C100: unprintable character 0xA0 skipped
+lab1q4.c(30): error C100: unprintable character 0xA0 skipped
+lab1q4.c(30): error C100: unprintable character 0xA0 skipped
+lab1q4.c(32): error C100: unprintable character 0xA0 skipped
+lab1q4.c(32): error C100: unprintable character 0xA0 skipped
+lab1q4.c(33): error C100: unprintable character 0xA0 skipped
+lab1q4.c(33): error C100: unprintable character 0xA0 skipped
+lab1q4.c(34): error C100: unprintable character 0xA0 skipped
+lab1q4.c(34): error C100: unprintable character 0xA0 skipped
+lab1q4.c(34): error C100: unprintable character 0xA0 skipped
+lab1q4.c(34): error C100: unprintable character 0xA0 skipped
+lab1q4.c(35): error C100: unprintable character 0xA0 skipped
+lab1q4.c(35): error C100: unprintable character 0xA0 skipped
+lab1q4.c(35): error C100: unprintable character 0xA0 skipped
+lab1q4.c(35): error C100: unprintable character 0xA0 skipped
+lab1q4.c(36): error C100: unprintable character 0xA0 skipped
+lab1q4.c(36): error C100: unprintable character 0xA0 skipped
+lab1q4.c(36): error C100: unprintable character 0xA0 skipped
+lab1q4.c(36): error C100: unprintable character 0xA0 skipped
+lab1q4.c(37): error C100: unprintable character 0xA0 skipped
+lab1q4.c(37): error C100: unprintable character 0xA0 skipped
+lab1q4.c(37): error C100: unprintable character 0xA0 skipped
+lab1q4.c(37): error C100: unprintable character 0xA0 skipped
+lab1q4.c(38): error C100: unprintable character 0xA0 skipped
+lab1q4.c(38): error C100: unprintable character 0xA0 skipped
+lab1q4.c(38): error C100: unprintable character 0xA0 skipped
+compiling lab1q5.c...
+lab1q5.c(5): error C100: unprintable character 0xA0 skipped
+lab1q5.c(5): error C100: unprintable character 0xA0 skipped
+lab1q5.c(6): error C100: unprintable character 0xA0 skipped
+lab1q5.c(6): error C100: unprintable character 0xA0 skipped
+lab1q5.c(7): error C100: unprintable character 0xA0 skipped
+lab1q5.c(7): error C100: unprintable character 0xA0 skipped
+lab1q5.c(7): error C100: unprintable character 0xA0 skipped
+lab1q5.c(7): error C100: unprintable character 0xA0 skipped
+lab1q5.c(11): error C100: unprintable character 0xA0 skipped
+lab1q5.c(11): error C100: unprintable character 0xA0 skipped
+lab1q5.c(12): error C100: unprintable character 0xA0 skipped
+lab1q5.c(12): error C100: unprintable character 0xA0 skipped
+lab1q5.c(13): error C100: unprintable character 0xA0 skipped
+lab1q5.c(13): error C100: unprintable character 0xA0 skipped
+lab1q5.c(14): error C100: unprintable character 0xA0 skipped
+lab1q5.c(14): error C100: unprintable character 0xA0 skipped
+lab1q5.c(15): error C100: unprintable character 0xA0 skipped
+lab1q5.c(15): error C100: unprintable character 0xA0 skipped
+lab1q5.c(16): error C100: unprintable character 0xA0 skipped
+lab1q5.c(16): error C100: unprintable character 0xA0 skipped
+lab1q5.c(18): error C100: unprintable character 0xA0 skipped
+lab1q5.c(18): error C100: unprintable character 0xA0 skipped
+lab1q5.c(19): error C100: unprintable character 0xA0 skipped
+lab1q5.c(19): error C100: unprintable character 0xA0 skipped
+lab1q5.c(20): error C100: unprintable character 0xA0 skipped
+lab1q5.c(20): error C100: unprintable character 0xA0 skipped
+lab1q5.c(21): error C100: unprintable character 0xA0 skipped
+lab1q5.c(21): error C100: unprintable character 0xA0 skipped
+lab1q5.c(21): error C100: unprintable character 0xA0 skipped
+lab1q5.c(21): error C100: unprintable character 0xA0 skipped
+lab1q5.c(22): error C100: unprintable character 0xA0 skipped
+lab1q5.c(22): error C100: unprintable character 0xA0 skipped
+lab1q5.c(22): error C100: unprintable character 0xA0 skipped
+lab1q5.c(22): error C100: unprintable character 0xA0 skipped
+lab1q5.c(22): error C100: unprintable character 0xA0 skipped
+lab1q5.c(22): error C100: unprintable character 0xA0 skipped
+lab1q5.c(23): error C100: unprintable character 0xA0 skipped
+lab1q5.c(23): error C100: unprintable character 0xA0 skipped
+lab1q5.c(23): error C100: unprintable character 0xA0 skipped
+lab1q5.c(23): error C100: unprintable character 0xA0 skipped
+lab1q5.c(24): error C100: unprintable character 0xA0 skipped
+lab1q5.c(24): error C100: unprintable character 0xA0 skipped
+lab1q5.c(24): error C100: unprintable character 0xA0 skipped
+lab1q5.c(24): error C100: unprintable character 0xA0 skipped
+lab1q5.c(24): error C100: unprintable character 0xA0 skipped
+lab1q5.c(24): error C100: unprintable character 0xA0 skipped
+lab1q5.c(25): error C100: unprintable character 0xA0 skipped
+lab1q5.c(25): error C100: unprintable character 0xA0 skipped
+lab1q5.c(26): error C100: unprintable character 0xA0 skipped
+lab1q5.c(26): error C100: unprintable character 0xA0 skipped
+lab1q5.c(27): error C100: unprintable character 0xA0 skipped
+lab1q5.c(27): error C100: unprintable character 0xA0 skipped
+lab1q5.c(28): error C100: unprintable character 0xA0 skipped
+lab1q5.c(28): error C100: unprintable character 0xA0 skipped
+lab1q5.c(28): error C100: unprintable character 0xA0 skipped
+lab1q5.c(28): error C100: unprintable character 0xA0 skipped
+lab1q5.c(29): error C100: unprintable character 0xA0 skipped
+lab1q5.c(29): error C100: unprintable character 0xA0 skipped
+lab1q5.c(29): error C100: unprintable character 0xA0 skipped
+lab1q5.c(29): error C100: unprintable character 0xA0 skipped
+lab1q5.c(30): error C100: unprintable character 0xA0 skipped
+lab1q5.c(30): error C100: unprintable character 0xA0 skipped
+lab1q5.c(30): error C100: unprintable character 0xA0 skipped
+lab1q5.c(30): error C100: unprintable character 0xA0 skipped
+lab1q5.c(31): error C100: unprintable character 0xA0 skipped
+lab1q5.c(31): error C100: unprintable character 0xA0 skipped
+lab1q5.c(31): error C100: unprintable character 0xA0 skipped
+lab1q5.c(31): error C100: unprintable character 0xA0 skipped
+lab1q5.c(32): error C100: unprintable character 0xA0 skipped
+lab1q5.c(32): error C100: unprintable character 0xA0 skipped
+lab1q5.c(32): error C100: unprintable character 0xA0 skipped
+assembling lab1q5.asm...
+assembling lab1q6.asm...
+lab1q6.asm(13): error A9: SYNTAX ERROR
+lab1q6.asm(13): error A9: SYNTAX ERROR
+lab1q6.asm(13): error A3: ILLEGAL CHARACTER
+lab1q6.asm(26): error A9: SYNTAX ERROR
+lab1q6.asm(26): error A9: SYNTAX ERROR
+lab1q6.asm(26): error A3: ILLEGAL CHARACTER
+lab1q6.asm(26): error A3: ILLEGAL CHARACTER
+lab1q6.asm(26): error A3: ILLEGAL CHARACTER
+lab1q6.asm(27): error A9: SYNTAX ERROR
+lab1q6.asm(28): error A9: SYNTAX ERROR
+lab1q6.asm(28): error A9: SYNTAX ERROR
+lab1q6.asm(28): error A3: ILLEGAL CHARACTER
+lab1q6.asm(28): error A3: ILLEGAL CHARACTER
+lab1q6.asm(28): error A3: ILLEGAL CHARACTER
+lab1q6.asm(36): error A9: SYNTAX ERROR
+lab1q6.asm(36): error A9: SYNTAX ERROR
+lab1q6.asm(36): error A3: ILLEGAL CHARACTER
+lab1q6.asm(36): error A3: ILLEGAL CHARACTER
+lab1q6.asm(36): error A3: ILLEGAL CHARACTER
+lab1q6.asm(44): error A9: SYNTAX ERROR
+lab1q6.asm(44): error A9: SYNTAX ERROR
+lab1q6.asm(44): error A9: SYNTAX ERROR
+lab1q6.asm(44): error A3: ILLEGAL CHARACTER
+lab1q6.asm(44): error A3: ILLEGAL CHARACTER
+lab1q6.asm(52): error A9: SYNTAX ERROR
+lab1q6.asm(52): error A9: SYNTAX ERROR
+lab1q6.asm(52): error A3: ILLEGAL CHARACTER
+lab1q6.asm(52): error A3: ILLEGAL CHARACTER
+lab1q6.asm(52): error A3: ILLEGAL CHARACTER
+lab1q6.asm(53): error A9: SYNTAX ERROR
+lab1q6.asm(53): error A9: SYNTAX ERROR
+lab1q6.asm(54): error A9: SYNTAX ERROR
+lab1q6.asm(54): error A9: SYNTAX ERROR
+lab1q6.asm(54): error A3: ILLEGAL CHARACTER
+lab1q6.asm(54): error A3: ILLEGAL CHARACTER
+lab1q6.asm(54): error A3: ILLEGAL CHARACTER
+lab1q6.asm(56): error A9: SYNTAX ERROR
+lab1q6.asm(56): error A9: SYNTAX ERROR
+lab1q6.asm(56): error A3: ILLEGAL CHARACTER
+lab1q6.asm(56): error A3: ILLEGAL CHARACTER
+lab1q6.asm(56): error A3: ILLEGAL CHARACTER
+lab1q6.asm(63): error A9: SYNTAX ERROR
+lab1q6.asm(63): error A9: SYNTAX ERROR
+lab1q6.asm(63): error A3: ILLEGAL CHARACTER
+lab1q6.asm(63): error A3: ILLEGAL CHARACTER
+lab1q6.asm(64): error A9: SYNTAX ERROR
+lab1q6.asm(64): error A9: SYNTAX ERROR
+lab1q6.asm(64): error A3: ILLEGAL CHARACTER
+lab1q6.asm(64): error A3: ILLEGAL CHARACTER
+lab1q6.asm(64): error A3: ILLEGAL CHARACTER
+lab1q6.asm(65): error A9: SYNTAX ERROR
+lab1q6.asm(65): error A9: SYNTAX ERROR
+lab1q6.asm(65): error A3: ILLEGAL CHARACTER
+lab1q6.asm(65): error A3: ILLEGAL CHARACTER
+lab1q6.asm(65): error A3: ILLEGAL CHARACTER
+lab1q6.asm(67): error A9: SYNTAX ERROR
+lab1q6.asm(67): error A9: SYNTAX ERROR
+lab1q6.asm(67): error A3: ILLEGAL CHARACTER
+lab1q6.asm(67): error A3: ILLEGAL CHARACTER
+lab1q6.asm(67): error A3: ILLEGAL CHARACTER
+lab1q6.asm(71): error A9: SYNTAX ERROR
+lab1q6.asm(71): error A9: SYNTAX ERROR
+lab1q6.asm(71): error A9: SYNTAX ERROR
+lab1q6.asm(71): error A3: ILLEGAL CHARACTER
+lab1q6.asm(71): error A3: ILLEGAL CHARACTER
+lab1q6.asm(72): error A9: SYNTAX ERROR
+lab1q6.asm(72): error A9: SYNTAX ERROR
+lab1q6.asm(72): error A9: SYNTAX ERROR
+lab1q6.asm(72): error A3: ILLEGAL CHARACTER
+lab1q6.asm(72): error A3: ILLEGAL CHARACTER
+compiling lab1q6a.c...
+lab1q6a.c(6): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(6): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(7): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(7): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(8): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(8): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(8): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(8): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(13): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(13): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(14): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(14): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(15): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(15): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(16): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(16): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(17): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(17): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(18): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(18): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(19): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(19): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(20): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(20): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(20): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(20): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(21): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(21): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(21): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(21): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(21): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(21): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(22): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(22): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(22): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(22): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(22): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(22): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(23): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(23): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(23): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(23): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(23): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(23): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(23): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(23): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(24): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(24): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(24): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(24): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(24): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(24): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(24): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(24): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(25): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(25): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(25): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(25): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(25): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(25): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(25): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(25): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(26): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(26): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(26): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(26): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(26): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(26): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(27): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(27): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(27): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(27): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(27): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(27): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(27): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(27): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(28): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(28): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(29): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(29): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(30): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(30): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(30): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(30): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(31): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(31): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(31): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(31): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(32): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(32): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(32): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(32): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(32): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(32): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(33): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(33): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(33): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(33): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(33): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(33): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(34): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(34): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(34): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(34): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(35): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(35): error C100: unprintable character 0xA0 skipped
+lab1q6a.c(35): error C100: unprintable character 0xA0 skipped
+compiling lab1q6b.c...
+lab1q6b.c(6): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(6): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(7): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(7): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(8): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(8): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(8): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(8): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(12): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(12): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(13): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(13): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(15): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(15): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(16): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(16): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(17): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(17): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(18): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(18): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(20): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(20): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(21): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(21): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(22): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(22): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(22): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(22): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(23): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(23): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(23): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(23): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(23): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(23): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(24): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(24): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(24): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(24): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(24): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(24): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(25): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(25): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(25): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(25): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(25): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(25): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(25): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(25): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(26): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(26): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(26): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(26): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(26): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(26): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(26): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(26): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(27): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(27): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(27): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(27): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(27): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(27): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(27): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(27): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(28): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(28): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(28): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(28): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(28): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(28): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(29): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(29): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(29): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(29): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(29): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(29): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(29): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(29): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(29): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(29): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(30): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(30): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(31): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(31): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(32): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(32): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(33): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(33): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(34): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(34): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(34): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(34): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(35): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(35): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(35): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(35): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(36): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(36): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(36): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(36): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(36): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(36): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(37): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(37): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(37): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(37): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(37): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(37): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(38): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(38): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(38): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(38): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(39): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(39): error C100: unprintable character 0xA0 skipped
+lab1q6b.c(39): error C100: unprintable character 0xA0 skipped
+assembling lab1q7.asm...
+lab1q7.asm(2): error A9: SYNTAX ERROR
+lab1q7.asm(2): error A9: SYNTAX ERROR
+lab1q7.asm(3): error A9: SYNTAX ERROR
+lab1q7.asm(4): error A9: SYNTAX ERROR
+lab1q7.asm(8): error A9: SYNTAX ERROR
+lab1q7.asm(8): error A9: SYNTAX ERROR
+lab1q7.asm(8): error A3: ILLEGAL CHARACTER
+lab1q7.asm(8): error A3: ILLEGAL CHARACTER
+lab1q7.asm(19): error A9: SYNTAX ERROR
+lab1q7.asm(20): error A9: SYNTAX ERROR
+lab1q7.asm(41): error A9: SYNTAX ERROR
+lab1q7.asm(41): error A9: SYNTAX ERROR
+lab1q7.asm(41): error A9: SYNTAX ERROR
+lab1q7.asm(41): error A3: ILLEGAL CHARACTER
+lab1q7.asm(41): error A3: ILLEGAL CHARACTER
+lab1q7.asm(42): error A9: SYNTAX ERROR
+lab1q7.asm(42): error A9: SYNTAX ERROR
+lab1q7.asm(42): error A3: ILLEGAL CHARACTER
+lab1q7.asm(42): error A3: ILLEGAL CHARACTER
+lab1q7.asm(42): error A3: ILLEGAL CHARACTER
+lab1q7.asm(43): error A9: SYNTAX ERROR
+lab1q7.asm(46): error A9: SYNTAX ERROR
+compiling lab1q7.c...
+lab1q7.c(6): error C100: unprintable character 0xA0 skipped
+lab1q7.c(6): error C100: unprintable character 0xA0 skipped
+lab1q7.c(7): error C100: unprintable character 0xA0 skipped
+lab1q7.c(7): error C100: unprintable character 0xA0 skipped
+lab1q7.c(8): error C100: unprintable character 0xA0 skipped
+lab1q7.c(8): error C100: unprintable character 0xA0 skipped
+lab1q7.c(8): error C100: unprintable character 0xA0 skipped
+lab1q7.c(8): error C100: unprintable character 0xA0 skipped
+lab1q7.c(12): error C100: unprintable character 0xA0 skipped
+lab1q7.c(12): error C100: unprintable character 0xA0 skipped
+lab1q7.c(13): error C100: unprintable character 0xA0 skipped
+lab1q7.c(13): error C100: unprintable character 0xA0 skipped
+lab1q7.c(14): error C100: unprintable character 0xA0 skipped
+lab1q7.c(14): error C100: unprintable character 0xA0 skipped
+lab1q7.c(14): error C100: unprintable character 0xA0 skipped
+lab1q7.c(14): error C100: unprintable character 0xA0 skipped
+lab1q7.c(15): error C100: unprintable character 0xA0 skipped
+lab1q7.c(15): error C100: unprintable character 0xA0 skipped
+lab1q7.c(15): error C100: unprintable character 0xA0 skipped
+lab1q7.c(15): error C100: unprintable character 0xA0 skipped
+lab1q7.c(15): error C100: unprintable character 0xA0 skipped
+lab1q7.c(15): error C100: unprintable character 0xA0 skipped
+lab1q7.c(15): error C100: unprintable character 0xA0 skipped
+lab1q7.c(15): error C100: unprintable character 0xA0 skipped
+lab1q7.c(16): error C100: unprintable character 0xA0 skipped
+lab1q7.c(16): error C100: unprintable character 0xA0 skipped
+lab1q7.c(17): error C100: unprintable character 0xA0 skipped
+lab1q7.c(17): error C100: unprintable character 0xA0 skipped
+lab1q7.c(17): error C100: unprintable character 0xA0 skipped
+lab1q7.c(17): error C100: unprintable character 0xA0 skipped
+lab1q7.c(17): error C100: unprintable character 0xA0 skipped
+lab1q7.c(17): error C100: unprintable character 0xA0 skipped
+lab1q7.c(18): error C100: unprintable character 0xA0 skipped
+lab1q7.c(18): error C100: unprintable character 0xA0 skipped
+lab1q7.c(19): error C100: unprintable character 0xA0 skipped
+lab1q7.c(19): error C100: unprintable character 0xA0 skipped
+lab1q7.c(22): error C100: unprintable character 0xA0 skipped
+lab1q7.c(22): error C100: unprintable character 0xA0 skipped
+lab1q7.c(23): error C100: unprintable character 0xA0 skipped
+lab1q7.c(23): error C100: unprintable character 0xA0 skipped
+lab1q7.c(24): error C100: unprintable character 0xA0 skipped
+lab1q7.c(24): error C100: unprintable character 0xA0 skipped
+lab1q7.c(25): error C100: unprintable character 0xA0 skipped
+lab1q7.c(25): error C100: unprintable character 0xA0 skipped
+lab1q7.c(25): error C100: unprintable character 0xA0 skipped
+lab1q7.c(25): error C100: unprintable character 0xA0 skipped
+lab1q7.c(25): error C100: unprintable character 0xA0 skipped
+lab1q7.c(26): error C100: unprintable character 0xA0 skipped
+lab1q7.c(26): error C100: unprintable character 0xA0 skipped
+lab1q7.c(27): error C100: unprintable character 0xA0 skipped
+lab1q7.c(27): error C100: unprintable character 0xA0 skipped
+lab1q7.c(28): error C100: unprintable character 0xA0 skipped
+lab1q7.c(28): error C100: unprintable character 0xA0 skipped
+lab1q7.c(29): error C100: unprintable character 0xA0 skipped
+lab1q7.c(29): error C100: unprintable character 0xA0 skipped
+lab1q7.c(29): error C100: unprintable character 0xA0 skipped
+lab1q7.c(29): error C100: unprintable character 0xA0 skipped
+lab1q7.c(30): error C100: unprintable character 0xA0 skipped
+lab1q7.c(30): error C100: unprintable character 0xA0 skipped
+lab1q7.c(30): error C100: unprintable character 0xA0 skipped
+lab1q7.c(30): error C100: unprintable character 0xA0 skipped
+lab1q7.c(30): error C100: unprintable character 0xA0 skipped
+lab1q7.c(30): error C100: unprintable character 0xA0 skipped
+lab1q7.c(31): error C100: unprintable character 0xA0 skipped
+lab1q7.c(31): error C100: unprintable character 0xA0 skipped
+lab1q7.c(32): error C100: unprintable character 0xA0 skipped
+lab1q7.c(32): error C100: unprintable character 0xA0 skipped
+lab1q7.c(33): error C100: unprintable character 0xA0 skipped
+lab1q7.c(33): error C100: unprintable character 0xA0 skipped
+lab1q7.c(34): error C100: unprintable character 0xA0 skipped
+lab1q7.c(34): error C100: unprintable character 0xA0 skipped
+lab1q7.c(34): error C100: unprintable character 0xA0 skipped
+lab1q7.c(34): error C100: unprintable character 0xA0 skipped
+lab1q7.c(35): error C100: unprintable character 0xA0 skipped
+lab1q7.c(35): error C100: unprintable character 0xA0 skipped
+lab1q7.c(35): error C100: unprintable character 0xA0 skipped
+lab1q7.c(35): error C100: unprintable character 0xA0 skipped
+lab1q7.c(36): error C100: unprintable character 0xA0 skipped
+lab1q7.c(36): error C100: unprintable character 0xA0 skipped
+lab1q7.c(36): error C100: unprintable character 0xA0 skipped
+lab1q7.c(36): error C100: unprintable character 0xA0 skipped
+lab1q7.c(36): error C100: unprintable character 0xA0 skipped
+lab1q7.c(36): error C100: unprintable character 0xA0 skipped
+lab1q7.c(37): error C100: unprintable character 0xA0 skipped
+lab1q7.c(37): error C100: unprintable character 0xA0 skipped
+lab1q7.c(37): error C100: unprintable character 0xA0 skipped
+lab1q7.c(37): error C100: unprintable character 0xA0 skipped
+lab1q7.c(37): error C100: unprintable character 0xA0 skipped
+lab1q7.c(37): error C100: unprintable character 0xA0 skipped
+lab1q7.c(38): error C100: unprintable character 0xA0 skipped
+lab1q7.c(38): error C100: unprintable character 0xA0 skipped
+lab1q7.c(38): error C100: unprintable character 0xA0 skipped
+lab1q7.c(38): error C100: unprintable character 0xA0 skipped
+lab1q7.c(39): error C100: unprintable character 0xA0 skipped
+lab1q7.c(39): error C100: unprintable character 0xA0 skipped
+lab1q7.c(39): error C100: unprintable character 0xA0 skipped
+assembling lab1q8.asm...
+lab1q8.asm(23): error A9: SYNTAX ERROR
+lab1q8.asm(23): error A9: SYNTAX ERROR
+compiling lab1q8.c...
+lab1q8.c(5): error C100: unprintable character 0xA0 skipped
+lab1q8.c(5): error C100: unprintable character 0xA0 skipped
+lab1q8.c(6): error C100: unprintable character 0xA0 skipped
+lab1q8.c(6): error C100: unprintable character 0xA0 skipped
+lab1q8.c(7): error C100: unprintable character 0xA0 skipped
+lab1q8.c(7): error C100: unprintable character 0xA0 skipped
+lab1q8.c(7): error C100: unprintable character 0xA0 skipped
+lab1q8.c(7): error C100: unprintable character 0xA0 skipped
+lab1q8.c(11): error C100: unprintable character 0xA0 skipped
+lab1q8.c(11): error C100: unprintable character 0xA0 skipped
+lab1q8.c(12): error C100: unprintable character 0xA0 skipped
+lab1q8.c(12): error C100: unprintable character 0xA0 skipped
+lab1q8.c(13): error C100: unprintable character 0xA0 skipped
+lab1q8.c(13): error C100: unprintable character 0xA0 skipped
+lab1q8.c(14): error C100: unprintable character 0xA0 skipped
+lab1q8.c(14): error C100: unprintable character 0xA0 skipped
+lab1q8.c(15): error C100: unprintable character 0xA0 skipped
+lab1q8.c(15): error C100: unprintable character 0xA0 skipped
+lab1q8.c(16): error C100: unprintable character 0xA0 skipped
+lab1q8.c(16): error C100: unprintable character 0xA0 skipped
+lab1q8.c(16): error C100: unprintable character 0xA0 skipped
+lab1q8.c(16): error C100: unprintable character 0xA0 skipped
+lab1q8.c(17): error C100: unprintable character 0xA0 skipped
+lab1q8.c(17): error C100: unprintable character 0xA0 skipped
+lab1q8.c(18): error C100: unprintable character 0xA0 skipped
+lab1q8.c(18): error C100: unprintable character 0xA0 skipped
+lab1q8.c(19): error C100: unprintable character 0xA0 skipped
+lab1q8.c(19): error C100: unprintable character 0xA0 skipped
+lab1q8.c(20): error C100: unprintable character 0xA0 skipped
+lab1q8.c(20): error C100: unprintable character 0xA0 skipped
+lab1q8.c(20): error C100: unprintable character 0xA0 skipped
+lab1q8.c(20): error C100: unprintable character 0xA0 skipped
+lab1q8.c(20): error C100: unprintable character 0xA0 skipped
+lab1q8.c(21): error C100: unprintable character 0xA0 skipped
+lab1q8.c(21): error C100: unprintable character 0xA0 skipped
+lab1q8.c(22): error C100: unprintable character 0xA0 skipped
+lab1q8.c(22): error C100: unprintable character 0xA0 skipped
+lab1q8.c(23): error C100: unprintable character 0xA0 skipped
+lab1q8.c(23): error C100: unprintable character 0xA0 skipped
+lab1q8.c(23): error C100: unprintable character 0xA0 skipped
+lab1q8.c(23): error C100: unprintable character 0xA0 skipped
+lab1q8.c(24): error C100: unprintable character 0xA0 skipped
+lab1q8.c(24): error C100: unprintable character 0xA0 skipped
+lab1q8.c(24): error C100: unprintable character 0xA0 skipped
+lab1q8.c(24): error C100: unprintable character 0xA0 skipped
+lab1q8.c(25): error C100: unprintable character 0xA0 skipped
+lab1q8.c(25): error C100: unprintable character 0xA0 skipped
+lab1q8.c(25): error C100: unprintable character 0xA0 skipped
+lab1q8.c(25): error C100: unprintable character 0xA0 skipped
+lab1q8.c(26): error C100: unprintable character 0xA0 skipped
+lab1q8.c(26): error C100: unprintable character 0xA0 skipped
+lab1q8.c(26): error C100: unprintable character 0xA0 skipped
+lab1q8.c(26): error C100: unprintable character 0xA0 skipped
+lab1q8.c(27): error C100: unprintable character 0xA0 skipped
+lab1q8.c(27): error C100: unprintable character 0xA0 skipped
+lab1q8.c(27): error C100: unprintable character 0xA0 skipped
+lab1q8.c(27): error C100: unprintable character 0xA0 skipped
+lab1q8.c(28): error C100: unprintable character 0xA0 skipped
+lab1q8.c(28): error C100: unprintable character 0xA0 skipped
+lab1q8.c(28): error C100: unprintable character 0xA0 skipped
+lab1q8.c(28): error C100: unprintable character 0xA0 skipped
+lab1q8.c(29): error C100: unprintable character 0xA0 skipped
+lab1q8.c(29): error C100: unprintable character 0xA0 skipped
+lab1q8.c(29): error C100: unprintable character 0xA0 skipped
+lab1q8.c(29): error C100: unprintable character 0xA0 skipped
+lab1q8.c(30): error C100: unprintable character 0xA0 skipped
+lab1q8.c(30): error C100: unprintable character 0xA0 skipped
+lab1q8.c(30): error C100: unprintable character 0xA0 skipped
+lab1q8.c(30): error C100: unprintable character 0xA0 skipped
+lab1q8.c(31): error C100: unprintable character 0xA0 skipped
+lab1q8.c(31): error C100: unprintable character 0xA0 skipped
+Target not created
+Build target 'Target 1'
+assembling lab1q1.asm...
+compiling lab1q1.c...
+linking...
+*** WARNING L7: MODULE NAME NOT UNIQUE
+    MODULE:  lab1q1.obj (LAB1Q1)
+Program Size: data=27.0 xdata=0 code=203
+"lab1project" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lab1q2.c...
+lab1q2.c(5): error C100: unprintable character 0xA0 skipped
+lab1q2.c(5): error C100: unprintable character 0xA0 skipped
+lab1q2.c(6): error C100: unprintable character 0xA0 skipped
+lab1q2.c(6): error C100: unprintable character 0xA0 skipped
+lab1q2.c(7): error C100: unprintable character 0xA0 skipped
+lab1q2.c(7): error C100: unprintable character 0xA0 skipped
+lab1q2.c(7): error C100: unprintable character 0xA0 skipped
+lab1q2.c(7): error C100: unprintable character 0xA0 skipped
+lab1q2.c(11): error C100: unprintable character 0xA0 skipped
+lab1q2.c(11): error C100: unprintable character 0xA0 skipped
+lab1q2.c(12): error C100: unprintable character 0xA0 skipped
+lab1q2.c(12): error C100: unprintable character 0xA0 skipped
+lab1q2.c(13): error C100: unprintable character 0xA0 skipped
+lab1q2.c(13): error C100: unprintable character 0xA0 skipped
+lab1q2.c(14): error C100: unprintable character 0xA0 skipped
+lab1q2.c(14): error C100: unprintable character 0xA0 skipped
+lab1q2.c(15): error C100: unprintable character 0xA0 skipped
+lab1q2.c(15): error C100: unprintable character 0xA0 skipped
+lab1q2.c(16): error C100: unprintable character 0xA0 skipped
+lab1q2.c(16): error C100: unprintable character 0xA0 skipped
+lab1q2.c(17): error C100: unprintable character 0xA0 skipped
+lab1q2.c(17): error C100: unprintable character 0xA0 skipped
+lab1q2.c(18): error C100: unprintable character 0xA0 skipped
+lab1q2.c(18): error C100: unprintable character 0xA0 skipped
+lab1q2.c(19): error C100: unprintable character 0xA0 skipped
+lab1q2.c(19): error C100: unprintable character 0xA0 skipped
+lab1q2.c(20): error C100: unprintable character 0xA0 skipped
+lab1q2.c(20): error C100: unprintable character 0xA0 skipped
+lab1q2.c(20): error C100: unprintable character 0xA0 skipped
+lab1q2.c(20): error C100: unprintable character 0xA0 skipped
+lab1q2.c(21): error C100: unprintable character 0xA0 skipped
+lab1q2.c(21): error C100: unprintable character 0xA0 skipped
+lab1q2.c(21): error C100: unprintable character 0xA0 skipped
+lab1q2.c(21): error C100: unprintable character 0xA0 skipped
+lab1q2.c(22): error C100: unprintable character 0xA0 skipped
+lab1q2.c(22): error C100: unprintable character 0xA0 skipped
+lab1q2.c(22): error C100: unprintable character 0xA0 skipped
+lab1q2.c(22): error C100: unprintable character 0xA0 skipped
+lab1q2.c(23): error C100: unprintable character 0xA0 skipped
+lab1q2.c(23): error C100: unprintable character 0xA0 skipped
+lab1q2.c(23): error C100: unprintable character 0xA0 skipped
+lab1q2.c(23): error C100: unprintable character 0xA0 skipped
+lab1q2.c(24): error C100: unprintable character 0xA0 skipped
+lab1q2.c(24): error C100: unprintable character 0xA0 skipped
+Target not created
+Build target 'Target 1'
+compiling lab1q2.c...
+linking...
+Program Size: data=10.0 xdata=0 code=80
+"lab1project" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling lab1q2.c...
+lab1q2.c(5): error C100: unprintable character 0xA0 skipped
+lab1q2.c(5): error C100: unprintable character 0xA0 skipped
+lab1q2.c(6): error C100: unprintable character 0xA0 skipped
+lab1q2.c(6): error C100: unprintable character 0xA0 skipped
+lab1q2.c(7): error C100: unprintable character 0xA0 skipped
+lab1q2.c(7): error C100: unprintable character 0xA0 skipped
+lab1q2.c(7): error C100: unprintable character 0xA0 skipped
+lab1q2.c(7): error C100: unprintable character 0xA0 skipped
+lab1q2.c(11): error C100: unprintable character 0xA0 skipped
+lab1q2.c(11): error C100: unprintable character 0xA0 skipped
+lab1q2.c(12): error C100: unprintable character 0xA0 skipped
+lab1q2.c(12): error C100: unprintable character 0xA0 skipped
+lab1q2.c(13): error C100: unprintable character 0xA0 skipped
+lab1q2.c(13): error C100: unprintable character 0xA0 skipped
+lab1q2.c(14): error C100: unprintable character 0xA0 skipped
+lab1q2.c(14): error C100: unprintable character 0xA0 skipped
+lab1q2.c(15): error C100: unprintable character 0xA0 skipped
+lab1q2.c(15): error C100: unprintable character 0xA0 skipped
+lab1q2.c(16): error C100: unprintable character 0xA0 skipped
+lab1q2.c(16): error C100: unprintable character 0xA0 skipped
+lab1q2.c(17): error C100: unprintable character 0xA0 skipped
+lab1q2.c(17): error C100: unprintable character 0xA0 skipped
+lab1q2.c(18): error C100: unprintable character 0xA0 skipped
+lab1q2.c(18): error C100: unprintable character 0xA0 skipped
+lab1q2.c(19): error C100: unprintable character 0xA0 skipped
+lab1q2.c(19): error C100: unprintable character 0xA0 skipped
+lab1q2.c(20): error C100: unprintable character 0xA0 skipped
+lab1q2.c(20): error C100: unprintable character 0xA0 skipped
+lab1q2.c(20): error C100: unprintable character 0xA0 skipped
+lab1q2.c(20): error C100: unprintable character 0xA0 skipped
+lab1q2.c(21): error C100: unprintable character 0xA0 skipped
+lab1q2.c(21): error C100: unprintable character 0xA0 skipped
+lab1q2.c(21): error C100: unprintable character 0xA0 skipped
+lab1q2.c(21): error C100: unprintable character 0xA0 skipped
+lab1q2.c(22): error C100: unprintable character 0xA0 skipped
+lab1q2.c(22): error C100: unprintable character 0xA0 skipped
+lab1q2.c(22): error C100: unprintable character 0xA0 skipped
+lab1q2.c(22): error C100: unprintable character 0xA0 skipped
+lab1q2.c(23): error C100: unprintable character 0xA0 skipped
+lab1q2.c(23): error C100: unprintable character 0xA0 skipped
+lab1q2.c(23): error C100: unprintable character 0xA0 skipped
+lab1q2.c(23): error C100: unprintable character 0xA0 skipped
+lab1q2.c(24): error C100: unprintable character 0xA0 skipped
+lab1q2.c(24): error C100: unprintable character 0xA0 skipped
+Target not created
+Build target 'Target 1'
+compiling lab1q2.c...
+linking...
+Program Size: data=10.0 xdata=0 code=80
+"lab1project" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling lab1q3.asm...
+linking...
+Program Size: data=8.0 xdata=0 code=27
+"lab1project" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling lab1q3.asm...
+linking...
+Program Size: data=8.0 xdata=0 code=27
+"lab1project" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling lab1q3.asm...
+linking...
+Program Size: data=8.0 xdata=0 code=46
+"lab1project" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling lab1q3.asm...
+linking...
+Program Size: data=8.0 xdata=0 code=27
+"lab1project" - 0 Error(s), 0 Warning(s).

@@ -1,0 +1,261 @@
+A51 MACRO ASSEMBLER  LAB1Q6                                                               12/20/2021 13:09:39 PAGE     1
+
+
+MACRO ASSEMBLER A51 V8.02b
+NO OBJECT MODULE REQUESTED
+ASSEMBLER INVOKED BY: C:\Keil\C51\BIN\A51.EXE lab1q6.asm SET(SMALL) DEBUG EP
+
+LOC  OBJ            LINE     SOURCE
+
+0000                   1     ORG 00H
+0000 7560A5            2             MOV 60H, #0A5H
+0003 7561FD            3             MOV 61H, #0FDH
+0006 756267            4             MOV 62H, #067H
+0009 756342            5             MOV 63H, #042H
+000C 7564DF            6             MOV 64H, #0DFH
+000F 75659A            7             MOV 65H, #09AH
+0012 756684            8             MOV 66H, #084H
+0015 75671B            9             MOV 67H, #01BH
+0018 7568C7           10             MOV 68H, #0C7H
+001B 756931           11             MOV 69H, #031H
+                      12     
+001E                  13             MOV R6,#60H      
+*** _____________________________________________^
+*** _______________________________________________^
+*** _________________________________________________^
+*** ERROR #A9 IN 13 (lab1q6.asm, LINE 13): SYNTAX ERROR
+*** ERROR #A9 IN 13 (lab1q6.asm, LINE 13): SYNTAX ERROR
+*** ERROR #A3 IN 13 (lab1q6.asm, LINE 13): ILLEGAL CHARACTER
+001E 7F0A             14             MOV R7,#10
+0020 112C             15             ACALL ASC_SORT
+0022 1154             16             ACALL DELAY
+0024 7E60             17             MOV R6,#60H
+0026 7F0A             18             MOV R7,#10
+0028 1141             19             ACALL DESC_SORT
+002A 80FE             20             SJMP $
+                      21     
+002C                  22     ASC_SORT:
+                      23     ;SORT NUMBERS AT ADDRESS GIVEN BY R6 IN ASCENDING ORDER USING BUBBLE SORT
+                      24     ;R7 IS COUNT
+002C 1F               25             DEC R7
+002D                  26             MOV 03H,07H          
+*** _____________________________________________^
+*** _______________________________________________^
+*** _________________________________________________^
+*** ___________________________________________________^
+*** _____________________________________________________^
+*** ERROR #A9 IN 26 (lab1q6.asm, LINE 26): SYNTAX ERROR
+*** ERROR #A9 IN 26 (lab1q6.asm, LINE 26): SYNTAX ERROR
+*** ERROR #A3 IN 26 (lab1q6.asm, LINE 26): ILLEGAL CHARACTER
+*** ERROR #A3 IN 26 (lab1q6.asm, LINE 26): ILLEGAL CHARACTER
+*** ERROR #A3 IN 26 (lab1q6.asm, LINE 26): ILLEGAL CHARACTER
+002D                  27             NEXTI: MOV 02H,07H   
+*** ____________________________________________________^
+*** ERROR #A9 IN 27 (lab1q6.asm, LINE 27): SYNTAX ERROR
+002D                  28             MOV 00H,06H          
+*** _____________________________________________^
+*** _______________________________________________^
+*** _________________________________________________^
+*** ___________________________________________________^
+*** _____________________________________________________^
+*** ERROR #A9 IN 28 (lab1q6.asm, LINE 28): SYNTAX ERROR
+*** ERROR #A9 IN 28 (lab1q6.asm, LINE 28): SYNTAX ERROR
+*** ERROR #A3 IN 28 (lab1q6.asm, LINE 28): ILLEGAL CHARACTER
+*** ERROR #A3 IN 28 (lab1q6.asm, LINE 28): ILLEGAL CHARACTER
+*** ERROR #A3 IN 28 (lab1q6.asm, LINE 28): ILLEGAL CHARACTER
+002D E6               29     NEXTN: MOV A,@R0
+002E 08               30             INC R0
+A51 MACRO ASSEMBLER  LAB1Q6                                                               12/20/2021 13:09:39 PAGE     2
+
+002F 86F0             31             MOV B,@R0
+0031 C3               32             CLR C
+0032 95F0             33             SUBB A,B
+0034 9200             34             MOV 0H,C
+0036 25F0             35             ADD A,B
+0038                  36             JB 0H,SMALLER          ;ALREADY IN ORDER              
+*** _______________________________________________^
+*** _________________________________________________^
+*** ___________________________________________________^
+*** _____________________________________________________^
+*** _______________________________________________________^
+*** ERROR #A9 IN 36 (lab1q6.asm, LINE 36): SYNTAX ERROR
+*** ERROR #A9 IN 36 (lab1q6.asm, LINE 36): SYNTAX ERROR
+*** ERROR #A3 IN 36 (lab1q6.asm, LINE 36): ILLEGAL CHARACTER
+*** ERROR #A3 IN 36 (lab1q6.asm, LINE 36): ILLEGAL CHARACTER
+*** ERROR #A3 IN 36 (lab1q6.asm, LINE 36): ILLEGAL CHARACTER
+                      37             ;SWAPPING CONTENTS WHEN NOT IN ORDER
+0038 C6               38             XCH A,@R0
+0039 18               39             DEC R0
+003A F6               40             MOV @R0,A
+003B 08               41             INC R0
+003C DAEF             42     SMALLER: DJNZ R2,NEXTN
+                      43             ;INC R6                 ;LOWER ADDRESS IS SORTED
+003E                  44             DEC R7                 ;ONE MORE NUMBER IS SORTED
+*** ________________________________________^
+*** __________________________________________^
+*** ____________________________________________^
+*** ______________________________________________^
+*** ________________________________________________^
+*** ERROR #A9 IN 44 (lab1q6.asm, LINE 44): SYNTAX ERROR
+*** ERROR #A9 IN 44 (lab1q6.asm, LINE 44): SYNTAX ERROR
+*** ERROR #A9 IN 44 (lab1q6.asm, LINE 44): SYNTAX ERROR
+*** ERROR #A3 IN 44 (lab1q6.asm, LINE 44): ILLEGAL CHARACTER
+*** ERROR #A3 IN 44 (lab1q6.asm, LINE 44): ILLEGAL CHARACTER
+*** MORE ERRORS DETECTED, NOT REPORTED003E DBED             45             DJNZ R3, NEXTI
+0040 22               46             RET
+                      47     
+0041                  48     DESC_SORT:
+                      49     ;SORT NUMBERS AT ADDRESS GIVEN BY R6 IN DESCENDING ORDER USING SELECTION SORT,
+                      50     ;R7 HAS COUNT
+                      51     ;CHANGES R7,R6,R3,R2,R1,R0,A,B
+0041                  52             MOV 03H,07H           
+*** _____________________________________________^
+*** _______________________________________________^
+*** _________________________________________________^
+*** ___________________________________________________^
+*** _____________________________________________________^
+*** ERROR #A9 IN 52 (lab1q6.asm, LINE 52): SYNTAX ERROR
+*** ERROR #A9 IN 52 (lab1q6.asm, LINE 52): SYNTAX ERROR
+*** ERROR #A3 IN 52 (lab1q6.asm, LINE 52): ILLEGAL CHARACTER
+*** ERROR #A3 IN 52 (lab1q6.asm, LINE 52): ILLEGAL CHARACTER
+*** ERROR #A3 IN 52 (lab1q6.asm, LINE 52): ILLEGAL CHARACTER
+0041                  53     NEXTIT: MOV 02H,07H    
+*** _____________________________________________^
+*** _______________________________________________^
+*** ERROR #A9 IN 53 (lab1q6.asm, LINE 53): SYNTAX ERROR
+*** ERROR #A9 IN 53 (lab1q6.asm, LINE 53): SYNTAX ERROR
+0041                  54             MOV 00H,06H           
+*** _____________________________________________^
+*** _______________________________________________^
+*** _________________________________________________^
+*** ___________________________________________________^
+*** _____________________________________________________^
+*** ERROR #A9 IN 54 (lab1q6.asm, LINE 54): SYNTAX ERROR
+*** ERROR #A9 IN 54 (lab1q6.asm, LINE 54): SYNTAX ERROR
+A51 MACRO ASSEMBLER  LAB1Q6                                                               12/20/2021 13:09:39 PAGE     3
+
+*** ERROR #A3 IN 54 (lab1q6.asm, LINE 54): ILLEGAL CHARACTER
+*** ERROR #A3 IN 54 (lab1q6.asm, LINE 54): ILLEGAL CHARACTER
+*** ERROR #A3 IN 54 (lab1q6.asm, LINE 54): ILLEGAL CHARACTER
+0041 E6               55             MOV A,@R0
+0042                  56             MOV 01H,00H           
+*** _____________________________________________^
+*** _______________________________________________^
+*** _________________________________________________^
+*** ___________________________________________________^
+*** _____________________________________________________^
+*** ERROR #A9 IN 56 (lab1q6.asm, LINE 56): SYNTAX ERROR
+*** ERROR #A9 IN 56 (lab1q6.asm, LINE 56): SYNTAX ERROR
+*** ERROR #A3 IN 56 (lab1q6.asm, LINE 56): ILLEGAL CHARACTER
+*** ERROR #A3 IN 56 (lab1q6.asm, LINE 56): ILLEGAL CHARACTER
+*** ERROR #A3 IN 56 (lab1q6.asm, LINE 56): ILLEGAL CHARACTER
+0042 08               57     NEXTNU: INC R0
+0043 86F0             58             MOV B,@R0
+0045 C3               59             CLR C
+0046 95F0             60             SUBB A,B
+0048 9200             61             MOV 0H,C
+004A 25F0             62             ADD A,B
+004C                  63             JNB 0H,LARGER         ;ALREADY IN ORDER
+*** _______________________________________________^
+*** _________________________________________________^
+*** ___________________________________________________^
+*** _____________________________________________________^
+*** ERROR #A9 IN 63 (lab1q6.asm, LINE 63): SYNTAX ERROR
+*** ERROR #A9 IN 63 (lab1q6.asm, LINE 63): SYNTAX ERROR
+*** ERROR #A3 IN 63 (lab1q6.asm, LINE 63): ILLEGAL CHARACTER
+*** ERROR #A3 IN 63 (lab1q6.asm, LINE 63): ILLEGAL CHARACTER
+004C                  64             MOV 01H,00H           
+*** _____________________________________________^
+*** _______________________________________________^
+*** _________________________________________________^
+*** ___________________________________________________^
+*** _____________________________________________________^
+*** ERROR #A9 IN 64 (lab1q6.asm, LINE 64): SYNTAX ERROR
+*** ERROR #A9 IN 64 (lab1q6.asm, LINE 64): SYNTAX ERROR
+*** ERROR #A3 IN 64 (lab1q6.asm, LINE 64): ILLEGAL CHARACTER
+*** ERROR #A3 IN 64 (lab1q6.asm, LINE 64): ILLEGAL CHARACTER
+*** ERROR #A3 IN 64 (lab1q6.asm, LINE 64): ILLEGAL CHARACTER
+004C                  65             XCH A,B               ;NEW LARGER NUMBER
+*** _________________________________________^
+*** ___________________________________________^
+*** _____________________________________________^
+*** _______________________________________________^
+*** _________________________________________________^
+*** ERROR #A9 IN 65 (lab1q6.asm, LINE 65): SYNTAX ERROR
+*** ERROR #A9 IN 65 (lab1q6.asm, LINE 65): SYNTAX ERROR
+*** ERROR #A3 IN 65 (lab1q6.asm, LINE 65): ILLEGAL CHARACTER
+*** ERROR #A3 IN 65 (lab1q6.asm, LINE 65): ILLEGAL CHARACTER
+*** ERROR #A3 IN 65 (lab1q6.asm, LINE 65): ILLEGAL CHARACTER
+*** MORE ERRORS DETECTED, NOT REPORTED004C DAF4             66     LARGER: DJNZ R2,NEXTNU
+004E                  67             MOV 00H,06H           ;MOV R0,R6
+*** _____________________________________________^
+*** _______________________________________________^
+*** _________________________________________________^
+*** ___________________________________________________^
+*** _____________________________________________________^
+*** ERROR #A9 IN 67 (lab1q6.asm, LINE 67): SYNTAX ERROR
+*** ERROR #A9 IN 67 (lab1q6.asm, LINE 67): SYNTAX ERROR
+*** ERROR #A3 IN 67 (lab1q6.asm, LINE 67): ILLEGAL CHARACTER
+*** ERROR #A3 IN 67 (lab1q6.asm, LINE 67): ILLEGAL CHARACTER
+*** ERROR #A3 IN 67 (lab1q6.asm, LINE 67): ILLEGAL CHARACTER
+004E E7               68             MOV A,@R1
+A51 MACRO ASSEMBLER  LAB1Q6                                                               12/20/2021 13:09:39 PAGE     4
+
+004F C6               69             XCH A,@R0
+0050 F7               70             MOV @R1,A
+0051                  71             INC R6                ;LOWER ADDRESS IS SORTED
+*** ________________________________________^
+*** __________________________________________^
+*** ____________________________________________^
+*** ______________________________________________^
+*** ________________________________________________^
+*** ERROR #A9 IN 71 (lab1q6.asm, LINE 71): SYNTAX ERROR
+*** ERROR #A9 IN 71 (lab1q6.asm, LINE 71): SYNTAX ERROR
+*** ERROR #A9 IN 71 (lab1q6.asm, LINE 71): SYNTAX ERROR
+*** ERROR #A3 IN 71 (lab1q6.asm, LINE 71): ILLEGAL CHARACTER
+*** ERROR #A3 IN 71 (lab1q6.asm, LINE 71): ILLEGAL CHARACTER
+*** MORE ERRORS DETECTED, NOT REPORTED0051                  72             DEC R7                ;ONE MORE NUMBER IS SORTED
+*** ________________________________________^
+*** __________________________________________^
+*** ____________________________________________^
+*** ______________________________________________^
+*** ________________________________________________^
+*** ERROR #A9 IN 72 (lab1q6.asm, LINE 72): SYNTAX ERROR
+*** ERROR #A9 IN 72 (lab1q6.asm, LINE 72): SYNTAX ERROR
+*** ERROR #A9 IN 72 (lab1q6.asm, LINE 72): SYNTAX ERROR
+*** ERROR #A3 IN 72 (lab1q6.asm, LINE 72): ILLEGAL CHARACTER
+*** ERROR #A3 IN 72 (lab1q6.asm, LINE 72): ILLEGAL CHARACTER
+*** MORE ERRORS DETECTED, NOT REPORTED0051 DBEE             73             DJNZ R3, NEXTIT
+0053 22               74             RET
+0054 7EFF             75     DELAY: MOV R6,#0FFH
+0056 7FFF             76     OUTLOOP: MOV R7,#0FFH
+0058 DFFE             77     INLOOP: DJNZ R7,INLOOP
+005A DEFA             78             DJNZ R6,OUTLOOP
+005C 22               79             RET
+                      80     END
+A51 MACRO ASSEMBLER  LAB1Q6                                                               12/20/2021 13:09:39 PAGE     5
+
+SYMBOL TABLE LISTING
+------ ----- -------
+
+
+N A M E             T Y P E  V A L U E   ATTRIBUTES
+
+ASC_SORT . . . . .  C ADDR   002CH   A   
+B. . . . . . . . .  D ADDR   00F0H   A   
+DELAY. . . . . . .  C ADDR   0054H   A   
+DESC_SORT. . . . .  C ADDR   0041H   A   
+INLOOP . . . . . .  C ADDR   0058H   A   
+LARGER . . . . . .  C ADDR   004CH   A   
+NEXTI. . . . . . .  C ADDR   002DH   A   
+NEXTIT . . . . . .  C ADDR   0041H   A   
+NEXTN. . . . . . .  C ADDR   002DH   A   
+NEXTNU . . . . . .  C ADDR   0042H   A   
+OUTLOOP. . . . . .  C ADDR   0056H   A   
+SMALLER. . . . . .  C ADDR   003CH   A   
+
+
+REGISTER BANK(S) USED: 0 
+
+
+ASSEMBLY COMPLETE.  0 WARNING(S), 81 ERROR(S)

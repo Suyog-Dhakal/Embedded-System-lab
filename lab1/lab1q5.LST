@@ -1,0 +1,70 @@
+A51 MACRO ASSEMBLER  LAB1Q5                                                               12/20/2021 13:09:39 PAGE     1
+
+
+MACRO ASSEMBLER A51 V8.02b
+OBJECT MODULE PLACED IN lab1q5.OBJ
+ASSEMBLER INVOKED BY: C:\Keil\C51\BIN\A51.EXE lab1q5.asm SET(SMALL) DEBUG EP
+
+LOC  OBJ            LINE     SOURCE
+
+0000                   1     ORG 00H
+0000 7550D6            2                     MOV 50H,#0D6H
+0003 7551F2            3                     MOV 51H,#0F2H
+0006 7552E4            4                     MOV 52H,#0E4H
+0009 7553A8            5                     MOV 53H,#0A8H
+000C 7554CE            6                     MOV 54H,#0CEH
+000F 7555B9            7                     MOV 55H,#0B9H
+0012 7556FA            8                     MOV 56H,#0FAH
+0015 7557AE            9                     MOV 57H,#0AEH
+0018 7558BA           10                     MOV 58H,#0BAH
+001B 7559CC           11                     MOV 59H,#0CCH
+                      12     
+001E 7F09             13                     MOV R7,#09H
+0020 7850             14                     MOV R0,#50H
+0022 AD50             15                     MOV R5,50H
+0024 AE50             16                     MOV R6,50H
+                      17     
+0026 08               18     AGAIN:  INC R0
+0027 1131             19                     ACALL SMLG
+0029 1139             20                     ACALL LARG
+002B DFF9             21                     DJNZ R7,AGAIN
+002D 8D80             22                     MOV P0,R5
+002F 8E90             23                     MOV P1,R6
+                      24     
+0031 C3               25     SMLG:   CLR C
+0032 ED               26                     MOV A,R5
+0033 96               27                     SUBB A,@R0
+0034 4002             28                     JC SKIPS
+0036 E6               29                     MOV A,@R0
+0037 FD               30                     MOV R5,A
+0038 22               31     SKIPS:  RET
+                      32     
+0039 C3               33     LARG:   CLR C
+003A EE               34                     MOV A,R6
+003B 96               35                     SUBB A,@R0
+003C 5002             36                     JNC SKIPG
+003E E6               37                     MOV A,@R0
+003F FE               38                     MOV R6,A
+0040 22               39     SKIPG:  RET
+                      40                     END
+A51 MACRO ASSEMBLER  LAB1Q5                                                               12/20/2021 13:09:39 PAGE     2
+
+SYMBOL TABLE LISTING
+------ ----- -------
+
+
+N A M E             T Y P E  V A L U E   ATTRIBUTES
+
+AGAIN. . . . . . .  C ADDR   0026H   A   
+LARG . . . . . . .  C ADDR   0039H   A   
+P0 . . . . . . . .  D ADDR   0080H   A   
+P1 . . . . . . . .  D ADDR   0090H   A   
+SKIPG. . . . . . .  C ADDR   0040H   A   
+SKIPS. . . . . . .  C ADDR   0038H   A   
+SMLG . . . . . . .  C ADDR   0031H   A   
+
+
+REGISTER BANK(S) USED: 0 
+
+
+ASSEMBLY COMPLETE.  0 WARNING(S), 0 ERROR(S)

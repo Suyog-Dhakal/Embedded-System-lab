@@ -1,0 +1,125 @@
+C51 COMPILER V9.50a   LAB1Q4                                                               12/20/2021 13:09:38 PAGE 1   
+
+
+C51 COMPILER V9.50a, COMPILATION OF MODULE LAB1Q4
+OBJECT MODULE PLACED IN lab1q4.OBJ
+COMPILER INVOKED BY: C:\Keil\C51\BIN\C51.EXE lab1q4.c BROWSE DEBUG OBJECTEXTEND TABS(2)
+
+line level    source
+
+   1          #include <reg51.h>
+   2          int data dividend _at_ 0x3e;
+   3          unsigned char data reg4 _at_ 0x04;
+   4          unsigned char data reg5 _at_ 0x05;
+   5          
+   6          void delay(int time)
+   7          {
+   8   1          unsigned int i,j;
+*** ERROR C100 IN LINE 8 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 8 OF lab1q4.c: unprintable character 0xA0 skipped
+   9   1          for (i=0;i<time;i++)
+*** ERROR C100 IN LINE 9 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 9 OF lab1q4.c: unprintable character 0xA0 skipped
+  10   1              for (j=0;j<125;j++);
+*** ERROR C100 IN LINE 10 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 10 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 10 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 10 OF lab1q4.c: unprintable character 0xA0 skipped
+  11   1      }
+  12          
+  13          void main(void)
+  14          {
+  15   1          unsigned char divisor = 0x12;
+*** ERROR C100 IN LINE 15 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 15 OF lab1q4.c: unprintable character 0xA0 skipped
+  16   1          unsigned char quotient = 0x00, remainder;
+*** ERROR C100 IN LINE 16 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 16 OF lab1q4.c: unprintable character 0xA0 skipped
+  17   1          
+*** ERROR C100 IN LINE 17 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 17 OF lab1q4.c: unprintable character 0xA0 skipped
+  18   1          dividend = 0x00af;
+*** ERROR C100 IN LINE 18 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 18 OF lab1q4.c: unprintable character 0xA0 skipped
+  19   1          
+*** ERROR C100 IN LINE 19 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 19 OF lab1q4.c: unprintable character 0xA0 skipped
+  20   1          while(1)
+*** ERROR C100 IN LINE 20 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 20 OF lab1q4.c: unprintable character 0xA0 skipped
+  21   1          {
+*** ERROR C100 IN LINE 21 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 21 OF lab1q4.c: unprintable character 0xA0 skipped
+  22   2              dividend -= divisor;
+*** ERROR C100 IN LINE 22 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 22 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 22 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 22 OF lab1q4.c: unprintable character 0xA0 skipped
+  23   2              if(dividend < 0x0)
+*** ERROR C100 IN LINE 23 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 23 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 23 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 23 OF lab1q4.c: unprintable character 0xA0 skipped
+  24   2                  break;
+*** ERROR C100 IN LINE 24 OF lab1q4.c: unprintable character 0xA0 skipped
+C51 COMPILER V9.50a   LAB1Q4                                                               12/20/2021 13:09:38 PAGE 2   
+
+*** ERROR C100 IN LINE 24 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 24 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 24 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 24 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 24 OF lab1q4.c: unprintable character 0xA0 skipped
+  25   2              quotient += 0x1;
+*** ERROR C100 IN LINE 25 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 25 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 25 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 25 OF lab1q4.c: unprintable character 0xA0 skipped
+  26   2          }
+*** ERROR C100 IN LINE 26 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 26 OF lab1q4.c: unprintable character 0xA0 skipped
+  27   1          remainder = dividend + divisor;
+*** ERROR C100 IN LINE 27 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 27 OF lab1q4.c: unprintable character 0xA0 skipped
+  28   1          
+*** ERROR C100 IN LINE 28 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 28 OF lab1q4.c: unprintable character 0xA0 skipped
+  29   1          reg4 = quotient;
+*** ERROR C100 IN LINE 29 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 29 OF lab1q4.c: unprintable character 0xA0 skipped
+  30   1          reg5 = remainder;
+*** ERROR C100 IN LINE 30 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 30 OF lab1q4.c: unprintable character 0xA0 skipped
+  31   1      
+  32   1          while(1)
+*** ERROR C100 IN LINE 32 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 32 OF lab1q4.c: unprintable character 0xA0 skipped
+  33   1          {
+*** ERROR C100 IN LINE 33 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 33 OF lab1q4.c: unprintable character 0xA0 skipped
+  34   2              P0 = quotient;
+*** ERROR C100 IN LINE 34 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 34 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 34 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 34 OF lab1q4.c: unprintable character 0xA0 skipped
+  35   2              delay(1000);
+*** ERROR C100 IN LINE 35 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 35 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 35 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 35 OF lab1q4.c: unprintable character 0xA0 skipped
+  36   2              P0 = remainder;
+*** ERROR C100 IN LINE 36 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 36 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 36 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 36 OF lab1q4.c: unprintable character 0xA0 skipped
+  37   2              delay(1000);
+*** ERROR C100 IN LINE 37 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 37 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 37 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 37 OF lab1q4.c: unprintable character 0xA0 skipped
+  38   2          }   
+*** ERROR C100 IN LINE 38 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 38 OF lab1q4.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 38 OF lab1q4.c: unprintable character 0xA0 skipped
+  39   1      }
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  73 ERROR(S)

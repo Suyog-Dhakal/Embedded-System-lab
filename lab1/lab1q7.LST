@@ -1,0 +1,151 @@
+C51 COMPILER V9.50a   LAB1Q7                                                               12/20/2021 13:09:40 PAGE 1   
+
+
+C51 COMPILER V9.50a, COMPILATION OF MODULE LAB1Q7
+OBJECT MODULE PLACED IN lab1q7.OBJ
+COMPILER INVOKED BY: C:\Keil\C51\BIN\C51.EXE lab1q7.c BROWSE DEBUG OBJECTEXTEND TABS(2)
+
+line level    source
+
+   1          #include <reg51.h>
+   2          unsigned char data d[21] _at_ 0x40;
+   3          
+   4          void delay(int time)
+   5          {
+   6   1          unsigned int i,j;
+*** ERROR C100 IN LINE 6 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 6 OF lab1q7.c: unprintable character 0xA0 skipped
+   7   1          for (i=0;i<time;i++)
+*** ERROR C100 IN LINE 7 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 7 OF lab1q7.c: unprintable character 0xA0 skipped
+   8   1              for (j=0;j<125;j++);
+*** ERROR C100 IN LINE 8 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 8 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 8 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 8 OF lab1q7.c: unprintable character 0xA0 skipped
+   9   1      }
+  10          int isprime(unsigned char val)
+  11          {
+  12   1          unsigned char j;
+*** ERROR C100 IN LINE 12 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 12 OF lab1q7.c: unprintable character 0xA0 skipped
+  13   1          for(j=0x2;j<val;j++)
+*** ERROR C100 IN LINE 13 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 13 OF lab1q7.c: unprintable character 0xA0 skipped
+  14   1              if(val % j == 0x0)
+*** ERROR C100 IN LINE 14 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 14 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 14 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 14 OF lab1q7.c: unprintable character 0xA0 skipped
+  15   1                      break;
+*** ERROR C100 IN LINE 15 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 15 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 15 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 15 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 15 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 15 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 15 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 15 OF lab1q7.c: unprintable character 0xA0 skipped
+  16   1          if(j==val)
+*** ERROR C100 IN LINE 16 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 16 OF lab1q7.c: unprintable character 0xA0 skipped
+  17   1                  return 1;
+*** ERROR C100 IN LINE 17 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 17 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 17 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 17 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 17 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 17 OF lab1q7.c: unprintable character 0xA0 skipped
+  18   1          return 0;
+*** ERROR C100 IN LINE 18 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 18 OF lab1q7.c: unprintable character 0xA0 skipped
+  19   1      }    
+*** ERROR C100 IN LINE 19 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 19 OF lab1q7.c: unprintable character 0xA0 skipped
+C51 COMPILER V9.50a   LAB1Q7                                                               12/20/2021 13:09:40 PAGE 2   
+
+  20          void main(void)
+  21          {
+  22   1          unsigned char a[20];
+*** ERROR C100 IN LINE 22 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 22 OF lab1q7.c: unprintable character 0xA0 skipped
+  23   1          unsigned char i, count=0;
+*** ERROR C100 IN LINE 23 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 23 OF lab1q7.c: unprintable character 0xA0 skipped
+  24   1          for(i = 0x0; i<0x21; i++)
+*** ERROR C100 IN LINE 24 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 24 OF lab1q7.c: unprintable character 0xA0 skipped
+  25   1              d[i] = i;   
+*** ERROR C100 IN LINE 25 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 25 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 25 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 25 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 25 OF lab1q7.c: unprintable character 0xA0 skipped
+  26   1          a[count++] = 0x2;
+*** ERROR C100 IN LINE 26 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 26 OF lab1q7.c: unprintable character 0xA0 skipped
+  27   1          for(i=0x3;i<0x21;i++)
+*** ERROR C100 IN LINE 27 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 27 OF lab1q7.c: unprintable character 0xA0 skipped
+  28   1          {
+*** ERROR C100 IN LINE 28 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 28 OF lab1q7.c: unprintable character 0xA0 skipped
+  29   2              if(isprime(d[i]))
+*** ERROR C100 IN LINE 29 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 29 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 29 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 29 OF lab1q7.c: unprintable character 0xA0 skipped
+  30   2                  a[count++] = d[i];
+*** ERROR C100 IN LINE 30 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 30 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 30 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 30 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 30 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 30 OF lab1q7.c: unprintable character 0xA0 skipped
+  31   2          }
+*** ERROR C100 IN LINE 31 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 31 OF lab1q7.c: unprintable character 0xA0 skipped
+  32   1          while(1)
+*** ERROR C100 IN LINE 32 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 32 OF lab1q7.c: unprintable character 0xA0 skipped
+  33   1          {
+*** ERROR C100 IN LINE 33 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 33 OF lab1q7.c: unprintable character 0xA0 skipped
+  34   2              for(i = 0;i<count;i++)
+*** ERROR C100 IN LINE 34 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 34 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 34 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 34 OF lab1q7.c: unprintable character 0xA0 skipped
+  35   2              {
+*** ERROR C100 IN LINE 35 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 35 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 35 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 35 OF lab1q7.c: unprintable character 0xA0 skipped
+  36   3                  P0 = a[i];
+*** ERROR C100 IN LINE 36 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 36 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 36 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 36 OF lab1q7.c: unprintable character 0xA0 skipped
+C51 COMPILER V9.50a   LAB1Q7                                                               12/20/2021 13:09:40 PAGE 3   
+
+*** ERROR C100 IN LINE 36 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 36 OF lab1q7.c: unprintable character 0xA0 skipped
+  37   3                  delay(1000);
+*** ERROR C100 IN LINE 37 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 37 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 37 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 37 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 37 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 37 OF lab1q7.c: unprintable character 0xA0 skipped
+  38   3              }
+*** ERROR C100 IN LINE 38 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 38 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 38 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 38 OF lab1q7.c: unprintable character 0xA0 skipped
+  39   2          }   
+*** ERROR C100 IN LINE 39 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 39 OF lab1q7.c: unprintable character 0xA0 skipped
+*** ERROR C100 IN LINE 39 OF lab1q7.c: unprintable character 0xA0 skipped
+  40   1      }
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  96 ERROR(S)
