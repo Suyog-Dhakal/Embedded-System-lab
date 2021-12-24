@@ -1,0 +1,130 @@
+A51 MACRO ASSEMBLER  LAB2Q4                                                               12/24/2021 15:19:44 PAGE     1
+
+
+MACRO ASSEMBLER A51 V8.02b
+OBJECT MODULE PLACED IN lab2Q4.OBJ
+ASSEMBLER INVOKED BY: C:\Keil\C51\BIN\A51.EXE lab2Q4.asm SET(SMALL) DEBUG EP
+
+LOC  OBJ            LINE     SOURCE
+
+                       1     ;GENERATE MULTIPLICATION TABLE
+0000                   2                     ORG 00H
+                       3                     
+0000 7F07              4                     MOV R7,#7 ; NUMBER
+0002 75A000            5                     MOV P2,#00H
+0005 900071            6                     MOV DPTR,#LABEL1
+                       7     
+0008 8FF0              8                     MOV B,R7
+000A 785A              9                     MOV R0,#5AH
+000C 7E0A             10                     MOV R6,#10
+000E 8EF0             11     AGN:    MOV B,R6
+0010 EF               12                     MOV A,R7
+0011 A4               13                     MUL AB
+0012 F6               14                     MOV @R0,A
+0013 18               15                     DEC R0
+0014 DEF8             16                     DJNZ R6,AGN
+                      17                     
+                      18     ;HEX TO DEC CONVERTER
+0016 7851             19                     MOV R0,#51H
+0018 7E0A             20                     MOV R6,#10
+                      21                     
+001A E6               22     AGN2:   MOV A,@R0
+001B 7C00             23                     MOV R4,#00H
+001D 75F00A           24                     MOV B,#0AH
+0020 84               25                     DIV AB
+0021 FA               26                     MOV R2,A
+0022 940A             27                     SUBB A,#0AH
+0024 400D             28                     JC SKIP
+0026 EA               29                     MOV A,R2
+0027 ABF0             30                     MOV R3,B
+0029 75F00A           31                     MOV B,#0AH
+002C 84               32                     DIV AB
+002D FC               33                     MOV R4,A
+002E E5F0             34                     MOV A,B
+0030 8BF0             35                     MOV B,R3
+0032 FA               36                     MOV R2,A
+0033 EA               37     SKIP:   MOV A,R2
+0034 C4               38                     SWAP A
+0035 25F0             39                     ADD A,B
+0037 8CF0             40                     MOV B,R4
+                      41                     
+0039 F6               42                     MOV @R0,A
+003A 08               43                     INC R0
+003B DEDD             44                     DJNZ R6,AGN2
+                      45                     
+                      46     ; DISPLAY
+003D 7851             47     REPEAT: MOV R0,#51H
+003F 7C0A             48                     MOV R4,#10
+0041 7FFF             49     LOOP1:  MOV R7,#255
+0043 E6               50     MAIN:   MOV A,@R0
+0044 F5F0             51                     MOV B,A
+0046 540F             52                     ANL A,#0FH
+0048 75A002           53                     MOV P2,#02H
+004B 116F             54                     ACALL DISPLAY
+004D F580             55                     MOV P0,A
+004F 1166             56                     ACALL DELAY
+0051 E5F0             57                     MOV A,B
+0053 54F0             58                     ANL A,#0F0H
+A51 MACRO ASSEMBLER  LAB2Q4                                                               12/24/2021 15:19:44 PAGE     2
+
+0055 C4               59                     SWAP A
+0056 75A001           60                     MOV P2,#01H
+0059 116F             61                     ACALL DISPLAY
+005B F580             62                     MOV P0,A
+005D 1166             63                     ACALL DELAY
+005F DFE2             64                     DJNZ R7,MAIN
+0061 08               65                     INC R0
+0062 DCDD             66                     DJNZ R4,LOOP1
+0064 013D             67                     AJMP REPEAT
+                      68                                                     
+0066 7B02             69     DELAY:  MOV R3,#02H
+0068 7AFA             70     DEL1:   MOV R2,#0FAH
+006A DAFE             71     DEL2:   DJNZ R2,DEL2
+006C DBFA             72                     DJNZ R3,DEL1
+006E 22               73                     RET
+                      74     
+                      75     ;CHOOSE REQUIRED PATTERN
+006F 93               76     DISPLAY:MOVC A,@A+DPTR
+0070 22               77                     RET
+                      78     
+                      79     ;LED PATTERNS FOR NUMBERS 0-9
+0071 3F               80     LABEL1: DB 3FH
+0072 06               81                     DB 06H
+0073 5B               82                     DB 5BH
+0074 4F               83                     DB 4FH
+0075 66               84                     DB 66H
+0076 6D               85                     DB 6DH
+0077 7D               86                     DB 7DH
+0078 07               87                     DB 07H
+0079 7F               88                     DB 7FH
+007A 6F               89                     DB 6FH
+                      90     
+                      91                     END
+A51 MACRO ASSEMBLER  LAB2Q4                                                               12/24/2021 15:19:44 PAGE     3
+
+SYMBOL TABLE LISTING
+------ ----- -------
+
+
+N A M E             T Y P E  V A L U E   ATTRIBUTES
+
+AGN. . . . . . . .  C ADDR   000EH   A   
+AGN2 . . . . . . .  C ADDR   001AH   A   
+B. . . . . . . . .  D ADDR   00F0H   A   
+DEL1 . . . . . . .  C ADDR   0068H   A   
+DEL2 . . . . . . .  C ADDR   006AH   A   
+DELAY. . . . . . .  C ADDR   0066H   A   
+DISPLAY. . . . . .  C ADDR   006FH   A   
+LABEL1 . . . . . .  C ADDR   0071H   A   
+LOOP1. . . . . . .  C ADDR   0041H   A   
+MAIN . . . . . . .  C ADDR   0043H   A   
+P0 . . . . . . . .  D ADDR   0080H   A   
+P2 . . . . . . . .  D ADDR   00A0H   A   
+REPEAT . . . . . .  C ADDR   003DH   A   
+SKIP . . . . . . .  C ADDR   0033H   A   
+
+
+REGISTER BANK(S) USED: 0 
+
+
+ASSEMBLY COMPLETE.  0 WARNING(S), 0 ERROR(S)

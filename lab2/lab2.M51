@@ -1,0 +1,82 @@
+BL51 BANKED LINKER/LOCATER V6.22                                                        12/24/2021  14:40:40  PAGE 1
+
+
+BL51 BANKED LINKER/LOCATER V6.22, INVOKED BY:
+C:\KEIL\C51\BIN\BL51.EXE lab2Q1.obj TO lab2 RAMSIZE (256)
+
+
+INPUT MODULES INCLUDED:
+  lab2Q1.obj (LAB2Q1)
+
+
+LINK MAP OF MODULE:  lab2 (LAB2Q1)
+
+
+            TYPE    BASE      LENGTH    RELOCATION   SEGMENT NAME
+            -----------------------------------------------------
+
+            * * * * * * *   D A T A   M E M O R Y   * * * * * * *
+            REG     0000H     0008H     ABSOLUTE     "REG BANK 0"
+
+            * * * * * * *   C O D E   M E M O R Y   * * * * * * *
+            CODE    0000H     0045H     ABSOLUTE     
+
+
+
+SYMBOL TABLE OF MODULE:  lab2 (LAB2Q1)
+
+  VALUE           TYPE          NAME
+  ----------------------------------
+
+  -------         MODULE        LAB2Q1
+  C:0021H         SYMBOL        AGAIN
+  C:002FH         SYMBOL        C_DEC
+  C:0025H         SYMBOL        C_INC
+  C:0038H         SYMBOL        DELAY
+  C:003AH         SYMBOL        HERE1
+  C:003CH         SYMBOL        HERE2
+  C:003EH         SYMBOL        HERE3
+  D:0080H         SYMBOL        P0
+  D:00A0H         SYMBOL        P2
+  C:0000H         LINE#         4
+  C:0003H         LINE#         5
+  C:0006H         LINE#         6
+  C:0009H         LINE#         7
+  C:000CH         LINE#         8
+  C:000FH         LINE#         9
+  C:0012H         LINE#         10
+  C:0015H         LINE#         11
+  C:0018H         LINE#         12
+  C:001BH         LINE#         13
+  C:001EH         LINE#         15
+  C:0021H         LINE#         16
+  C:0023H         LINE#         17
+  C:0025H         LINE#         18
+  C:0027H         LINE#         19
+  C:0028H         LINE#         20
+  C:002AH         LINE#         21
+  C:002CH         LINE#         22
+  C:002DH         LINE#         24
+  C:002FH         LINE#         25
+  C:0030H         LINE#         26
+BL51 BANKED LINKER/LOCATER V6.22                                                      12/24/2021  14:40:40  PAGE 2
+
+
+  C:0032H         LINE#         27
+  C:0034H         LINE#         28
+  C:0036H         LINE#         29
+  C:0038H         LINE#         31
+  C:003AH         LINE#         32
+  C:003CH         LINE#         33
+  C:003EH         LINE#         34
+  C:0040H         LINE#         35
+  C:0042H         LINE#         36
+  C:0044H         LINE#         37
+  -------         ENDMOD        LAB2Q1
+
+******************************************************************************
+* RESTRICTED VERSION WITH 0800H BYTE CODE SIZE LIMIT; USED: 0045H BYTE ( 3%) *
+******************************************************************************
+
+Program Size: data=8.0 xdata=0 code=69
+LINK/LOCATE RUN COMPLETE.  0 WARNING(S),  0 ERROR(S)
