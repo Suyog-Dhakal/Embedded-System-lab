@@ -1,0 +1,16 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\6th sem\Embedded system\lab\lab2\lab2.uvproj
+Project File Date:  12/24/2021
+
+<h2>Output:</h2>
+assembling lab2Q5.asm...
+lab2Q5.asm - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: data=8.0 xdata=0 code=115
+creating hex file from "lab2q4"...
+"lab2q4" - 0 Error(s), 0 Warning(s).

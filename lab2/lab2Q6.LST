@@ -1,0 +1,105 @@
+A51 MACRO ASSEMBLER  LAB2Q6                                                               01/12/2022 12:06:56 PAGE     1
+
+
+MACRO ASSEMBLER A51 V8.02b
+OBJECT MODULE PLACED IN lab2Q6.OBJ
+ASSEMBLER INVOKED BY: C:\Keil\C51\BIN\A51.EXE lab2Q6.asm SET(SMALL) DEBUG EP
+
+LOC  OBJ            LINE     SOURCE
+
+0000                   1     ORG 00H
+                       2     
+                       3     ; C090
+0000 754039            4             MOV 40H, #39H
+0003 75413F            5             MOV 41H, #3FH
+0006 75426F            6             MOV 42H, #6FH
+0009 7543BF            7             MOV 43H, #0BFH
+                       8             
+                       9     ; C091
+000C 754439           10             MOV 44H, #39H
+000F 75453F           11             MOV 45H, #3FH
+0012 75466F           12             MOV 46H, #6FH
+0015 754786           13             MOV 47H, #86H
+                      14     
+                      15     ; C092
+0018 754839           16             MOV 48H, #39H
+001B 75493F           17             MOV 49H, #3FH
+001E 754A6F           18             MOV 4AH, #6FH
+0021 754BDB           19             MOV 4BH, #0DBH
+                      20     
+                      21     ; C093
+0024 754C39           22             MOV 4CH, #39H
+0027 754D3F           23             MOV 4DH, #3FH
+002A 754E6F           24             MOV 4EH, #6FH
+002D 754FCF           25             MOV 4FH, #0CFH
+                      26     ; C09
+0030 755039           27             MOV 50H, #39H
+0033 75513F           28             MOV 51H, #3FH
+0036 75526F           29             MOV 52H, #6FH
+                      30     
+                      31     ; DISPLAY
+0039 7840             32     REPEAT: MOV R0, #40H
+003B 7C10             33             MOV R4, #10H
+003D 7FFF             34     LOOP1: MOV R7, #255
+003F E6               35     MAIN: MOV A, @R0
+0040 D2A0             36             SETB P2.0
+0042 F580             37             MOV P0, A
+0044 1170             38             ACALL DELAY
+0046 C2A0             39             CLR P2.0
+0048 08               40             INC R0
+0049 E6               41             MOV A, @R0
+004A D2A1             42             SETB P2.1
+004C F580             43             MOV P0, A
+004E 1170             44             ACALL DELAY
+0050 C2A1             45             CLR P2.1
+0052 08               46             INC R0
+0053 E6               47             MOV A, @R0
+0054 D2A2             48             SETB P2.2
+0056 F580             49             MOV P0, A
+0058 1170             50             ACALL DELAY
+005A C2A2             51             CLR P2.2
+005C 08               52             INC R0
+005D E6               53             MOV A, @R0
+005E D2A3             54             SETB P2.3
+0060 F580             55             MOV P0, A
+0062 1170             56             ACALL DELAY
+0064 C2A3             57             CLR P2.3
+0066 18               58             DEC R0
+A51 MACRO ASSEMBLER  LAB2Q6                                                               01/12/2022 12:06:56 PAGE     2
+
+0067 18               59             DEC R0
+0068 18               60             DEC R0
+0069 DFD4             61             DJNZ R7, MAIN
+006B 08               62             INC R0
+006C DCCF             63             DJNZ R4, LOOP1
+006E 0139             64             AJMP REPEAT
+                      65     
+0070 7B02             66     DELAY: MOV R3, #02H
+0072 7AFA             67     DEL1: MOV R2, #0FAH
+0074 DAFE             68     DEL2: DJNZ R2, DEL2
+0076 DBFA             69             DJNZ R3, DEL1
+0078 22               70             RET
+                      71     
+                      72             END
+A51 MACRO ASSEMBLER  LAB2Q6                                                               01/12/2022 12:06:56 PAGE     3
+
+SYMBOL TABLE LISTING
+------ ----- -------
+
+
+N A M E             T Y P E  V A L U E   ATTRIBUTES
+
+DEL1 . . . . . . .  C ADDR   0072H   A   
+DEL2 . . . . . . .  C ADDR   0074H   A   
+DELAY. . . . . . .  C ADDR   0070H   A   
+LOOP1. . . . . . .  C ADDR   003DH   A   
+MAIN . . . . . . .  C ADDR   003FH   A   
+P0 . . . . . . . .  D ADDR   0080H   A   
+P2 . . . . . . . .  D ADDR   00A0H   A   
+REPEAT . . . . . .  C ADDR   0039H   A   
+
+
+REGISTER BANK(S) USED: 0 
+
+
+ASSEMBLY COMPLETE.  0 WARNING(S), 0 ERROR(S)
