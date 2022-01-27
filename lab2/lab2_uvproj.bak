@@ -44,7 +44,7 @@
             <InvalidFlash>1</InvalidFlash>
           </TargetStatus>
           <OutputDirectory>.\</OutputDirectory>
-          <OutputName>lab2Q5</OutputName>
+          <OutputName>lab2Q6</OutputName>
           <CreateExecutable>1</CreateExecutable>
           <CreateLib>0</CreateLib>
           <CreateHexFile>1</CreateHexFile>
@@ -350,9 +350,9 @@
           <GroupName>Source Group 1</GroupName>
           <Files>
             <File>
-              <FileName>lab2Q5.asm</FileName>
+              <FileName>lab2Q6.asm</FileName>
               <FileType>2</FileType>
-              <FilePath>.\lab2Q5.asm</FilePath>
+              <FilePath>.\lab2Q6.asm</FilePath>
             </File>
           </Files>
         </Group>

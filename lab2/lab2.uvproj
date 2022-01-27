@@ -350,9 +350,9 @@
           <GroupName>Source Group 1</GroupName>
           <Files>
             <File>
-              <FileName>lab2Q6.asm</FileName>
+              <FileName>lab2Q5.asm</FileName>
               <FileType>2</FileType>
-              <FilePath>.\lab2Q6.asm</FilePath>
+              <FilePath>.\lab2Q5.asm</FilePath>
             </File>
           </Files>
         </Group>

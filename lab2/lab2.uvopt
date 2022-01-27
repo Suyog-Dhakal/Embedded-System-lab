@@ -176,17 +176,17 @@
     <cbSel>0</cbSel>
     <File>
       <GroupNumber>1</GroupNumber>
-      <FileNumber>0</FileNumber>
+      <FileNumber>1</FileNumber>
       <FileType>2</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>18</ColumnNumber>
+      <ColumnNumber>4</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>1</TopLine>
-      <CurrentLine>7</CurrentLine>
+      <TopLine>43</TopLine>
+      <CurrentLine>45</CurrentLine>
       <bDave2>0</bDave2>
-      <PathWithFileName>.\lab2Q6.asm</PathWithFileName>
-      <FilenameWithoutPath>lab2Q6.asm</FilenameWithoutPath>
+      <PathWithFileName>.\lab2Q5.asm</PathWithFileName>
+      <FilenameWithoutPath>lab2Q5.asm</FilenameWithoutPath>
     </File>
   </Group>
 
